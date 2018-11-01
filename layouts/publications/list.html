@@ -1,0 +1,44 @@
+{{ partial "header.html" . }}
+
+{{ partial "page-title.html" . }}
+
+{{ if .Site.Data.publications.enable }}
+{{ "<!-- Service Section Start -->" | safeHTML }}
+<section id="service-page" class="pages service-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="block">
+                    {{ with .Site.Data.publications.title }}<h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">{{ . }}</h2>{{ end }}
+                    {{ with .Site.Data.publications.subtitle }}<p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">{{ . }}</p>{{ end }}
+                    {{ range .Site.Data.publications.pub }}
+                      <div class="block wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="600ms">
+                          {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+                          <!--{{ with .title }}<h4>{{ . }}</h4>{{ end }}-->
+                          {{ with .reference }} {{ . | safeHTML }} {{ end }}
+                          {{ with .journal }}< a href="{{ . }}">Journal</a>{{ end }}
+                          {{ with .pubmed }}<a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ . }}">PubMed</a>{{ end }}
+                          {{ with .pubmedcentral }}<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ . }}">PMC</a>{{ end }}
+                          {{ with .biorxiv }}<a href="{{ . }}">bioRxiv</a>{{ end }}
+                      </div>
+                    {{ end }}
+                </div>
+            </div>
+            {{ with .Site.Data.publications.image }}
+            <div class="col-md-6">
+                <div class="block">
+                    <img class="img-fluid" src="{{ . | absURL }}" alt="about-image">
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ "<!-- Service Section End -->" | safeHTML }}
+{{ end }}
+
+<!-- {{ partial "clients.html" . }} -->
+
+{{ partial "cta.html" . }}
+
+{{ partial "footer.html" . }}
