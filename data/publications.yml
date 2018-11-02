@@ -3,31 +3,34 @@ title   :    WHAT WE LOVE TO DO
 subtitle:    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
 image   :
 pub     :
-  - reference: Chen KS, Stroup EK, Budhipramono A, Rakheja D, Nichols-Vinueza D, Xu L, Stuart SH, Shukla AA, Fraire C, Mendell JT, Amatruda JF. Mutations in microRNA processing genes in Wilms tumors upregulate IGF2 through de-repression of PLAG1. Genes Dev. August 1, 2018 32:996-1007; doi:10.1101/gad.313783.118.
-    journal: http://genesdev.cshlp.org/content/32/15-16/996.long
+  - reference: Chen KS, Stroup EK, Budhipramono A, Rakheja D, Nichols-Vinueza D, Xu L, Stuart SH, Shukla AA, Fraire C, Mendell JT, Amatruda JF. Mutations in microRNA processing genes in Wilms tumors upregulate <i>IGF2</i> through de-repression of <i>PLAG1</i>. Genes Dev. August 1, 2018 32:996-1007.
+    doi: 10.1101/gad.313783.118
     pubmed:  30026293
     biorxiv:
 
-  - reference: Stroup EK, Yeu Y, Budhipramono A, Hwang TH, Rakheja D, Erdreich-Epstein A, Laetsch TW, Amatruda JF, Chen KS. miR-16 suppresses growth of rhabdoid tumor cells. Cancer Reports.  doi: 10.1002/cnr2.1110.
-    journal:
+  - reference: Stroup EK, Yeu Y, Budhipramono A, Hwang TH, Rakheja D, Erdreich-Epstein A, Laetsch TW, Amatruda JF, Chen KS. miR-16 suppresses growth of rhabdoid tumor cells. Cancer Reports.
+    doi: 10.1002/cnr2.1110
     pubmed:
 
-  - reference: Chen KS*, Stuart SH*, Stroup EK, Shukla AS, Wang J, Rajaram V, Vujanic G, Slone T, Rakheja D, Amatruda JF. Distinct DICER1 hotspot mutations identify bilateral tumors as separate events. JCO Precision Oncology. doi: 10.1200/PO.17.00113.
-    journal:
+  - reference: Chen KS*, Stuart SH*, Stroup EK, Shukla AS, Wang J, Rajaram V, Vujanic G, Slone T, Rakheja D, Amatruda JF. Distinct DICER1 hotspot mutations identify bilateral tumors as separate events. JCO Precision Oncology.
+    doi: 10.1200/PO.17.00113
     pubmed:
 
-  - reference: Chen KS*, Fustino NJ*, Shukla AA, Stroup EK, Budhipramono A, Ateek C, Stuart S, Yamaguchi K, Kapur P, Frazier AL, Lum L, Looijenga LHJ, Laetsch TW, Rakheja D, Amatruda JF. EGF receptor and mTORC1 are novel therapeutic targets in nonseminomatous germ cell tumors. Mol Cancer Ther. 2018 May; 17(5):1079-1089. doi: 10.1158/1535-7163.MCT-17-0137.
-    journal:
-    pubmed:
+  - reference: Chen KS*, Fustino NJ*, Shukla AA, Stroup EK, Budhipramono A, Ateek C, Stuart S, Yamaguchi K, Kapur P, Frazier AL, Lum L, Looijenga LHJ, Laetsch TW, Rakheja D, Amatruda JF. EGF receptor and mTORC1 are novel therapeutic targets in nonseminomatous germ cell tumors. Mol Cancer Ther. 2018 May; 17(5):1079-1089.
+    doi: 10.1158/1535-7163.MCT-17-0137
+    pubmed: 29483210
+    pubmedcentral: PMC5932259
 
-  - reference: Chen KS*, Kwon WS*, Kim J*, Heo SJ, Kim HS, Kim HK, Kim SH, Lee WS, Chung HC, Rha SY, Hwang TH. A novel TP53-KPNA3 translocation defines a de novo treatment-resistant clone in osteosarcoma. Cold Spring Harb Mol Case Stud. 2016 Sep; 2(5): a000992. doi: 10.1101/mcs.a000992.
-    journal:
-    pubmed:
+  - reference: Chen KS*, Kwon WS*, Kim J*, Heo SJ, Kim HS, Kim HK, Kim SH, Lee WS, Chung HC, Rha SY, Hwang TH. A novel <i>TP53-KPNA3</i> translocation defines a de novo treatment-resistant clone in osteosarcoma. Cold Spring Harb Mol Case Stud. 2016 Sep;2(5):a000992.
+    doi: 10.1101/mcs.a000992
+    pubmed: 27626065
+    pubmedcentral: PMC5002927
 
-  - reference: Wylie A, Jones AE, D’Brot A, Lu W-J, Kurtz Pm, Moran JVm, Rakheja D, Chen KS, Amatruda JF and Abrams JM. p53 Genes Act to Restrain Mobile Elements. Genes Dev. 2016 Jan 1;30(1):64-77. doi: 10.1101/gad.266098.115.
-    journal:
-    pubmed:
+  - reference: Wylie A, Jones AE, D’Brot A, Lu W-J, Kurtz Pm, Moran JVm, Rakheja D, Chen KS, Amatruda JF and Abrams JM. <i>p53</i> Genes Act to Restrain Mobile Elements. Genes Dev. 2016 Jan 1;30(1):64-77.
+    doi: 10.1101/gad.266098.115
+    pubmed: 26701264
+    pubmedcentral: PMC4701979
 
-  - reference: Rakheja D*, Chen KS*, Liu Y*, Shukla AA, Hildebrand S, Schmid V, Sun X, Feng X, Chang TC, Karandikar NJ, Malter JS, Mendell JT, Amatruda JF.  Somatic mutations in DROSHA and DICER1 impair microRNA biogenesis through distinct mechanisms in Wilms tumors.  Nat Commun.  2014 Sep 5;2:4802. doi: 10.1038/ncomms5802.
-    journal:
+  - reference: Rakheja D*, Chen KS*, Liu Y*, Shukla AA, Hildebrand S, Schmid V, Sun X, Feng X, Chang TC, Karandikar NJ, Malter JS, Mendell JT, Amatruda JF.  Somatic mutations in <i>DROSHA</i> and <i>DICER1</i> impair microRNA biogenesis through distinct mechanisms in Wilms tumors.  Nat Commun.  2014 Sep 5;2:4802.
+    doi: 10.1038/ncomms5802
     pubmed:
