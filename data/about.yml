@@ -1,20 +1,20 @@
 enable  : true
-title   : Our research interests
+title   : RNA regulation in childhood cancer
 description: >
   Genes are expressed as messenger RNA in a highly dynamic process. For this reason, living cells have a variety of tools for regulating RNA synthesis and degradation. Occasionally, loss of certain components of this regulation can lead to diseases such as childhood cancers. For example, in <i>DICER1</i> syndrome cancers, tumors arise due to loss of one of these tools, known as "microRNAs". This can lead to a variety of rare childhood tumors, such as pleuropulmonary blastoma, anaplastic sarcoma of the kidney, and ovarian Sertoli-Leydig cell tumors.
   <br>
   <br>
   We study how dysregulation of RNA synthesis and degradation drives childhood cancers, with the goal of identifying new therapeutic vulnerabilities to exploit in treating them.
-image   : images/about/about-company.jpg
+image   : images/dicer1-syndrome.png
 aboutItem:
-  - title : <i>DICER1</i> syndrome
+  - title : <i>DICER1</i> mutations
     description: >
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      These patients develop cancers driven by impairment of <i>DICER1</i>-related gene regulation. However, no therapies have been developed for <i>DICER1</i>-related cancers. We seek to understand how <i>DICER1</i> cancers arise in order to design new therapies for them.
 
-  - title : Wilms tumor
+  - title : Chemoresistance
     description: >
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Wilms tumor, the most common pediatric kidney cancer, is often susceptible to RNA-inhibiting therapy, but tumors that develop resistant to such therapy become very difficult to treat. We are studying how Wilms tumors develop resistance to RNA-inhibiting therapies.
 
-  - title : Meet The Energy
+  - title : Novel mechanisms
     description: >
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Many Wilms tumors are driven by mutations in gene regulation, but many Wilms tumors are driven by unknown mutations. We are continuing to use next-generation sequencing to uncover more mechanisms of gene dysregulation in childhood cancer.

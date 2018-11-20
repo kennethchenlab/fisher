@@ -1,8 +1,8 @@
 enable  : true
 contactFormTitle    : CONTACT US
 contactFormSubtitle : >
-  Questions or comments? Interested in joining the team? We're always actively recruiting talented and highly motivated individuals to join our team.
-  If you're interested, please contact us below, or e-mail a CV and cover letter to kenneth.chen@utsouthwestern.edu. We'd love to hear from you! Please send us a nice message in the space below!
+  Questions or comments? Interested in joining the team? We're always actively recruiting talented and highly motivated individuals to join our team. <br><br>
+  If you're interested, please contact us below, or e-mail a CV and cover letter to <a href="mailto:kenneth.chen@utsouthwestern.edu">kenneth.chen@utsouthwestern.edu</a>. We'd love to hear from you! Please send us a nice message in the space below!
 mapTitle    : FIND US
 mapSubtitle : >
   We are located on South Campus at UT Southwestern.

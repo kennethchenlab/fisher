@@ -10,25 +10,25 @@
             <div class="col-md-6">
                 <div class="block">
                     {{ with .Site.Data.contact.contactFormTitle }}<h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
-                    {{ with .Site.Data.contact.contactFormSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+                    {{ with .Site.Data.contact.contactFormSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . | safeHTML }}</p>{{ end }}
                     <div class="contact-form">
 
                         <form class="contact-form" method="POST" action="https://formspree.io/kenneth.chen@utsouthwestern.edu" role="form">
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
-                                <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
+                                <input type="text" placeholder="Your name" class="form-control" name="name" id="name">
                             </div>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
-                              <input type="email" id="email" name="email" class="form-control"  required placeholder="email "  aria-labelledby="email"/>
+                              <input type="email" id="email" name="email" class="form-control"  required placeholder="Your email "  aria-labelledby="email"/>
                             </div>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1s">
-                                <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject">
+                                <input type="text" placeholder="Your subject" class="form-control" name="subject" id="subject">
                             </div>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.2s">
-                                <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message"></textarea>
+                                <textarea rows="6" placeholder="Your message" class="form-control" name="message" id="message"></textarea>
                             </div>
 
                             <div id="submit" class="wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.4s">
