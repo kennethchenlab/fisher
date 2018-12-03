@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://upbeat-lewin-ee1b89.netlify.com"
 languageCode = "en-us"
 title = "Chen lab"
 theme = "timer-hugo"
@@ -22,7 +22,7 @@ theme = "timer-hugo"
         weight  = 4
     [[menu.nav]]
         name    = "News"
-        url     = "/blog"
+        url     = "/news"
         weight  = 5
     [[menu.nav]]
         name    = "Contact"
