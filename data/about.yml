@@ -1,20 +1,25 @@
 enable  : true
 title   : RNA regulation in childhood cancer
+image   : images/transcription-translation.png
 description: >
-  Genes are expressed as messenger RNA in a highly dynamic process. For this reason, living cells have a variety of tools for regulating RNA synthesis and degradation. Occasionally, loss of certain components of this regulation can lead to diseases such as childhood cancers. For example, in <i>DICER1</i> syndrome cancers, tumors arise due to loss of one of these tools, known as "microRNAs". This can lead to a variety of rare childhood tumors, such as pleuropulmonary blastoma, anaplastic sarcoma of the kidney, and ovarian Sertoli-Leydig cell tumors.
-  <br>
-  <br>
+  Genes are expressed as messenger RNA in a highly dynamic process. For this reason, living cells have a variety of tools for regulating RNA synthesis and degradation. Occasionally, loss of certain components of this regulation can lead to diseases such as childhood cancers. For example, loss of one of these tools, known as "microRNAs", can lead to a variety of rare childhood tumors, such as pleuropulmonary blastoma, Wilms tumor, and rhabdomyosarcoma. Mutations in another regulatory tool, the chromatin remodeling complexes, can lead to leukemias, bone and muscle cancers, and kidney cancers.
+  <br />  <br />
   We study how dysregulation of RNA synthesis and degradation drives childhood cancers, with the goal of identifying new therapeutic vulnerabilities to exploit in treating them.
-image   : images/dicer1-syndrome.png
+  <br /> <br />
+  Read on to learn more.
+
 aboutItem:
-  - title : <i>DICER1</i> mutations
+  - title : Tumor formation
+    image : images/kidney-tumor-rna.png
     description: >
-      These patients develop cancers driven by impairment of <i>DICER1</i>-related gene regulation. However, no therapies have been developed for <i>DICER1</i>-related cancers. We seek to understand how <i>DICER1</i> cancers arise in order to design new therapies for them.
+      Wilms tumor is the most common pediatric kidney cancer. Many are driven by mutations that impair gene regulation, both before mRNA production (transcription factors and chromatin remodeling factors) and after (such as in microRNA processing genes). We are studying how the mutations that arise in Wilms tumors affect gene expression and drive tumor formation. Additionally, we are continuing to identify more mechanisms of gene dysregulation in Wilms tumor.
+
+  - title : <i>DICER1</i> mutations
+    image : images/dicer1-syndrome.png
+    description: >
+      One particular gene which regulates gene expression, known as <i>DICER1</i>, can be mutated in wide range of rare cancers. In fact, some children are born with mutations in <i>DICER1</i> that predispose them to developing cancer. However, no therapies have been developed for <i>DICER1</i>-related cancers. We seek to understand how <i>DICER1</i> cancers arise, using both <i>in vitro</i> and <i>in vivo</i> models, in order to design new therapies for them.
 
   - title : Chemoresistance
+    image : images/rawpixel-600792-unsplash.jpg
     description: >
-      Wilms tumor, the most common pediatric kidney cancer, is often susceptible to RNA-inhibiting therapy, but tumors that develop resistant to such therapy become very difficult to treat. We are studying how Wilms tumors develop resistance to RNA-inhibiting therapies.
-
-  - title : Novel mechanisms
-    description: >
-      Many Wilms tumors are driven by mutations in gene regulation, but many Wilms tumors are driven by unknown mutations. We are continuing to use next-generation sequencing to uncover more mechanisms of gene dysregulation in childhood cancer.
+      Dactinomycin, an inhibitor of transcription (RNA production), is one of the most commonly used chemotherapy drugs for childhood cancers including Wilms tumor, rhabdomyosarcoma, and pleuropulmonary blastoma. It is effective much of the time, but there are usually no effective options for tumors resistant to front-line therapy. We are investigating how tumors evade transcriptional inhibition and ways to target these escape mechanisms.
