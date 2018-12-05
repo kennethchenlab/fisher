@@ -29,7 +29,6 @@
                 </div>
             </div>
             {{ end }}
-
         </div>
 <!--
         <div class="row">
@@ -53,7 +52,14 @@
 <section class="company-description">
     <div class="container">
       {{ range .Site.Data.about.aboutItem }}
-        <div class="row">
+      <div class="row">
+        <div class="col-md-12">
+          <h1>&nbsp;</h1>
+          <center><img src="../images/icons/down.png" class="img-fluid"></center>
+          <h1>&nbsp;</h1>
+          </div>
+      </div>
+      <div class="row">
             <div class="col-md-5 wow fadeInLeft" data-wow-delay=".3s">
                 {{ with .image }}<img src="{{ . | absURL }}" alt="" class="img-fluid">{{ end }}
             </div>
@@ -68,27 +74,14 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-          <div class="col-md-10">
-            <h1>&nbsp;</h1>
-            <h1>&nbsp;</h1>
-            <h1>&nbsp;</h1>
-            </div>
-        </div>
+
         <!--<img src="static/images/icons/close.png" class="img-fluid" />-->
         {{ end }}
     </div>
 </section>
 
 
-
-
-
 {{ "<!--  Company Feature Section End -->" | safeHTML }}
-
-{{ partial "team.html" . }}
-
-{{ partial "clients.html" . }}
 
 {{ partial "cta.html" . }}
 

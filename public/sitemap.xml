@@ -3,22 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/news/</loc>
+    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/news/a-new-year-a-new-posibility/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/contact/</loc>
     <lastmod>2018-07-14T17:09:20+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/members/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/publications/</loc>
+    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/about/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/tags/inspiration/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/tags/motivation/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/tags/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
     <priority>0</priority>
   </url>
   
