@@ -3,13 +3,13 @@
 <section id="clients">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                {{ with .Site.Data.sponsors.title }}<h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
-                {{ with .Site.Data.sponsors.subtitle }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+            <div class="col-md-9">
+                {{ with .Site.Data.sponsors.title }}<h2 class="subtitle wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+                {{ with .Site.Data.sponsors.subtitle }}<p class="subtitle-des wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
                 <div id="clients-logo" class="owl-carousel">
                     {{ range .Site.Data.sponsors.sponsorLogo }}
                     <div>
-                        <a href="{{ .link }}"><img src="{{ .image | absURL }}" alt="logo"></a>
+                        <a href="{{ .link }}"><img src="{{ .image | absURL }}" alt="logo" height=100px ></a>
                     </div>
                     {{ end }}
                 </div>

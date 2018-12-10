@@ -49,7 +49,7 @@ theme = "timer-hugo"
         description = "We study how RNA dysregulation drives childhood cancer."
         btn     = true
         btnText = "View research"
-        btnURL  = "#about"
+        btnURL  = "/about"
         # [[params.banner.flipText]]
         #     title   = "DESIGNER"
         # [[params.banner.flipText]]
@@ -61,7 +61,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "OUR RESEARCH"
-        content = "The messages that tell cells which proteins to make are encoded in messenger RNA, or mRNA. The process of mRNA production and degradation is usually tightly regulated. <p>However, in some childhood cancers, this regulation is lost. In particular, in <i>DICER1</i>-related cancers, a key component of this regulation mechanism, known as microRNAs, is lost. We study how dysregulation of mRNA production and degradation leads to childhood cancer, and seek ways to exploit this  dysregulation as a therapeutic vulnerability."
+        content = "The messages that tell cells which proteins to make are called messenger RNA, or mRNA. Production and degradation of mRNA is usually tightly regulated, but in some childhood cancers, this regulation is lost. We study how dysregulation of mRNA production and degradation leads to childhood cancer, and seek ways to exploit this  dysregulation as a therapeutic vulnerability. <br /><br /> Click <a href=/about>here</a> to learn more."
         image   = "images/pipet-louis-reed-747388-unsplash.jpg"
 
     # Call to Action
@@ -76,7 +76,7 @@ theme = "timer-hugo"
     [params.portfolio]
         enable  = false
         title   = "RESEARCH INTERESTS"
-        subtitle= "We study how "
+        subtitle= "We study"
 
     # Feature Product Section
     [params.featureProduct]
