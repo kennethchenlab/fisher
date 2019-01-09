@@ -16,19 +16,24 @@
                     </div>
                     {{ end }}
                     {{ with .name }}<h3 class="team_name">{{ . }}</h3>{{ end }}
-                    {{ with .designation }}<p class="team_designation">{{ . }}</p>{{ end }}
-                    {{ with .description }}<p class="team_text">{{ . }}</p>{{ end }}
-                    {{ with .email }}<p class="team_designation"><a href="mailto:{{ . }}">{{ . }}</a></p>{{ end }}
+                    {{ with .designation }}<p class="team_designation">{{ . | safeHTML }}</p>{{ end }}
+                    {{ with .email }}
+                      <p class="team_text"><a href="mailto:{{ . }}">{{ . }}</a></p>
+                    {{ end }}
+                    {{ with .description }}<p class="team_text">{{ . | safeHTML}}</p>{{ end }}
+
                     <p class="social-icons">
+
                         {{ with .facebook }}
                         <a href="{{ . }}" class="facebook" target="_blank">
                             <i class="ion-social-facebook-outline"></i>
                         </a>
                         {{ end }}
                         {{ with .twitter }}
-                        <a href="{{ . }}" target="_blank">
+                          <a href="http://www.twitter.com/{{ . }}" target="_blank">
                             <i class="ion-social-twitter-outline"></i>
-                        </a>
+                            @{{ . }}
+                          </a>
                         {{ end }}
                         {{ with .linkedIn }}
                         <a href="{{ . }}" target="_blank">

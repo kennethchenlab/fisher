@@ -3,34 +3,13 @@ title   : MEET THE TEAM
 members  :
   - name  : Kenneth Chen
     image : images/team/kenneth-chen.jpg
-    designation : Principal Investigator
-    email       : kenneth.chen@utsouthwestern.edu
+    designation : Principal Investigator<br>Assistant Professor, Pediatrics
+    email       : Kenneth.Chen@UTSouthwestern.edu
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    twitter     : https://www.twitter.com/kennethschen
+    twitter     : kennethschen
 
-  - name  : Jesmin Martina
+  - name  : Lindsay Mendyka
     image : images/team/team-2.jpg
-    designation : CEO, Project Manager
+    designation : Research Assistant
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
-
-  - name  : Deu John
-    image : images/team/team-3.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
-
-  - name  : Anderson Martin
-    image : images/team/team-4.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+    email       : Lindsay.Mendyka@UTSouthwestern.edu

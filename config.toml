@@ -88,7 +88,7 @@ theme = "timer-hugo"
     [params.footer]
         customized  = true # Set this variable to true if you customized the design.
         copyright_owner = "Chen lab"
-        copyright_since = "2018"
+        copyright_since = "2019"
         [[params.footer.social]]
             icon = "ion-social-twitter"
             link = "https://twitter.com/kennethschen"
