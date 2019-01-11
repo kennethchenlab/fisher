@@ -1,6 +1,6 @@
 ---
 title: "A New Year"
-date: 2018-01-08T18:20:59-06:00
+date: 2018-01-10T18:20:59-06:00
 type: post
 author: Kenneth Chen
 image:

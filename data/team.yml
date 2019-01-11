@@ -1,15 +1,15 @@
 enable  : true
 title   : MEET THE TEAM
 members  :
-  - name  : Kenneth Chen
+  - name  : Kenneth Chen, MD
     image : images/team/kenneth-chen.jpg
     designation : Principal Investigator<br>Assistant Professor, Pediatrics
     email       : Kenneth.Chen@UTSouthwestern.edu
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    description :
     twitter     : kennethschen
 
   - name  : Lindsay Mendyka
-    image : images/team/team-2.jpg
+    image : images/team/lindsay-mendyka.jpg
     designation : Research Assistant
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    description :
     email       : Lindsay.Mendyka@UTSouthwestern.edu
