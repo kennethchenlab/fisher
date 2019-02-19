@@ -28,17 +28,30 @@
   </url>
   
   <url>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/news/a-new-year/</loc>
+    <lastmod>2018-02-10T18:20:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upbeat-lewin-ee1b89.netlify.com/tags/announcements/</loc>
+    <lastmod>2018-02-10T18:20:59-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://upbeat-lewin-ee1b89.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://upbeat-lewin-ee1b89.netlify.com/</loc>
+    <lastmod>2018-02-10T18:20:59-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://upbeat-lewin-ee1b89.netlify.com/tags/</loc>
+    <lastmod>2018-02-10T18:20:59-06:00</lastmod>
     <priority>0</priority>
   </url>
   
