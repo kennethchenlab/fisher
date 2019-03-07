@@ -38,7 +38,7 @@
     <meta name="twitter:site" content="{{- .site -}}">
     {{ if ne .card "app" -}}
     <meta name="twitter:title" content="{{- .title -}}">
-    <meta name="twitter:image" content="{{- .image -}}">
+    <meta name="twitter:image" content="{{- .image | absURL -}}">
     <meta name="twitter:description" content="{{- .description -}}">
     {{ with .image_alt -}}<meta name="twitter:image:alt" content="{{- . -}}">{{- end }}
     {{- end }}
