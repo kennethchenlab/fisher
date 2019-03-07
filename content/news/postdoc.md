@@ -5,7 +5,7 @@ type: post
 author: Kenneth Chen
 tags: ["announcements", "recruitment"]
 twitter:
-  card: "postdoc"
+  card: "summary"
   site: "@kennethschen"
   title: "Postdoc opening!"
   description: "Looking for a fearless scientist to join our group!"
