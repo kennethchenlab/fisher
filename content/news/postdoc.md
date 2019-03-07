@@ -10,7 +10,7 @@ twitter:
   site: "@kennethschen"
   title: "Postdoc opening!"
   description: "Looking for a fearless scientist to join our group!"
-  image: images/jeremy-bishop-267964-unsplash-small.jpg
+  image: images/jeremy-bishop-267964-unsplash-small.jpeg
 ---
 
 It's [official](https://www.utsouthwestern.edu/education/graduate-school/research-opportunities/postdoctoral-scholars/molecular-mechanisms-childhood-cancer-biology-chen.pdf)! We're ready to recruit our first postdoctoral fellow!
