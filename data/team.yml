@@ -3,8 +3,8 @@ title   : MEET THE TEAM
 members  :
   - name  : Kenneth Chen, MD
     image : images/team/kenneth-chen.jpg
-    designation : Principal Investigator<br>Assistant Professor<br>Department of Pediatrics & Children's Research Institute
-    email       : kenneth.chen@utsw.edu
+    designation : Principal Investigator<br>Assistant Professor
+    email       : Kenneth.Chen@utsw.edu
     description :
     twitter     : kennethschen
 
@@ -19,3 +19,9 @@ members  :
     designation : Postdoctoral Fellow
     description :
     email       : PatriciaDenise.Tiburcio@utsw.edu
+
+  - name  : Peter Schoettler, MD
+    image : images/team/peter-schoettler.jpg
+    designation : Pediatric Hematology-Oncology Fellow
+    description :
+    email       : Peter.Schoettler@utsw.edu
