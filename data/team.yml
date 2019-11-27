@@ -6,7 +6,7 @@ members  :
     designation : Principal Investigator<br>Assistant Professor
     email       : Kenneth.Chen@utsw.edu
     description :
-    twitter     : kennethschen
+#    twitter     : kennethschen
 
   - name  : Lindsay Mendyka
     image : images/team/lindsay-mendyka.jpg
@@ -25,3 +25,9 @@ members  :
     designation : Pediatric Hematology-Oncology Fellow
     description :
     email       : Peter.Schoettler@utsw.edu
+
+  - name  : Lane Beeman
+    image : images/team/lane-beeman.jpg
+    designation : Research Technician
+    description :
+    email       : Lane.Beeman@utsw.edu
