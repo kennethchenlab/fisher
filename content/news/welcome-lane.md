@@ -15,7 +15,7 @@ twitter:
 
 The [lab](/members) continues to grow!
 
-Just in time for the holidays, we're excited that Lane Beeman as agreed to
+Just in time for the holidays, we're excited that Lane Beeman has agreed to
 join us as a research technician. She brings years of experience working with
 mice (and fish), and she makes a smooth transition to stay within
 the Amatruda lab family!
