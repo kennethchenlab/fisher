@@ -10,18 +10,20 @@
             <div class="col-md-3">
                 {{ $delay := mul $index 300 }}
                 <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
-                    {{ with .image }}
-                    <div class="team-img">
-                        <img src="{{ . | absURL }}" class="team-pic" alt="team-member">
-                    </div>
-                    {{ end }}
-                    {{ with .name }}<h3 class="team_name">{{ . }}</h3>{{ end }}
-                    {{ with .designation }}<p class="team_designation">{{ . | safeHTML }}</p>{{ end }}
-                    {{ with .email }}
-                      <p class="team_text"><a href="mailto:{{ . }}">{{ . }}</a></p>
-                    {{ end }}
-                    {{ with .description }}<p class="team_text">{{ . | safeHTML}}</p>{{ end }}
-
+                    {{ with .bio }}<a href="{{ . | absURL }}">{{ end }}
+                        {{ with .image }}
+                            <div class="team-img">
+                                <img src="{{ . | absURL }}" class="team-pic" alt="team-member">
+                            </div>
+                        {{ end }}
+                    {{ with .bio }}</a>{{ end }}
+                    <h3 class="team_name">
+                        {{ with .bio }}<a href="{{ . | absURL }}">{{ end }}{{ with .name }}{{ . }}<br />{{ end }}{{ with .bio }}</a>{{ end }}
+                        </h3>
+                    <p class="team_designation">{{ with .designation }}{{ . | safeHTML }}<br />{{ end }}
+                        {{ with .email }}<a href="mailto:{{ . }}">{{ . }}</a><br />{{ end }}
+                        {{ with .description }}{{ . | safeHTML}}<br />{{ end }}
+                    </p>
                     <p class="social-icons">
 
                         {{ with .facebook }}

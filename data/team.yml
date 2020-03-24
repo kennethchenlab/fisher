@@ -6,25 +6,28 @@ members  :
     designation : Principal Investigator<br>Assistant Professor
     email       : Kenneth.Chen@utsw.edu
     description :
-#    twitter     : kennethschen
+    twitter     : kennethschen
 
   - name  : Lindsay Mendyka
     image : images/team/lindsay-mendyka.jpg
     designation : Research Assistant
     description :
     email       : Lindsay.Mendyka@utsw.edu
+    twitter     : LindsayMendyka
 
   - name  : Patricia Tiburcio, PhD
     image : images/team/patricia-tiburcio.jpg
     designation : Postdoctoral Fellow
     description :
     email       : PatriciaDenise.Tiburcio@utsw.edu
+    twitter     : pdbtiburcio
 
   - name  : Peter Schoettler, MD
     image : images/team/peter-schoettler.jpg
     designation : Pediatric Hematology-Oncology Fellow
     description :
     email       : Peter.Schoettler@utsw.edu
+    bio : # members/pschoettler-bio
 
   - name  : Lane Beeman
     image : images/team/lane-beeman.jpg
