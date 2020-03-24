@@ -5,6 +5,12 @@ type: post
 author: Peter Schoettler
 tags: ["bios"]
 image: images/team/schoettler-family.png
+twitter:
+  card: "summary"
+  site: "@kennethschen"
+  title: "About Peter Schoettler"
+  description: "Peter Schoettler is a pediatric oncology fellow at UT Southwestern interested in DICER1 syndrome."
+  image: images/team/schoettler-family.png
 ---
 
 Research Background
