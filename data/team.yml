@@ -7,6 +7,7 @@ members  :
     email       : Kenneth.Chen@utsw.edu
     description :
     twitter     : kennethschen
+    bio         : #members/kchen-bio
 
   - name        : Lindsay Mendyka
     image       : images/team/lindsay-mendyka.jpg
@@ -14,7 +15,7 @@ members  :
     description :
     email       : Lindsay.Mendyka@utsw.edu
     twitter     : LindsayMendyka
-    bio         : #members/lmendyka-bio
+    bio         : members/lmendyka-bio
 
   - name        : Patricia Tiburcio, PhD
     image       : images/team/patricia-tiburcio.jpg
@@ -22,21 +23,21 @@ members  :
     description :
     email       : PatriciaDenise.Tiburcio@utsw.edu
     twitter     : pdbtiburcio
-    bio         : #members/ptiburcio-bio
+    bio         : members/ptiburcio-bio
 
   - name        : Peter Schoettler, MD
     image       : images/team/peter-schoettler.jpg
     designation : Pediatric Hematology-Oncology Fellow
     description :
     email       : Peter.Schoettler@utsw.edu
-    bio         : #members/pschoettler-bio
+    bio         : members/pschoettler-bio
 
   - name        : Lane Beeman
     image       : images/team/lane-beeman.jpg
     designation : Research Technician
     description :
     email       : Lane.Beeman@utsw.edu
-    bio         : #members/lbeeman-bio
+    bio         : members/lbeeman-bio
 
   - name        : Claudette Fraire
     image       :
