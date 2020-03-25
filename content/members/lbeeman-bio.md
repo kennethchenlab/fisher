@@ -10,7 +10,7 @@ twitter:
   site: "@kennethschen"
   title: "About Lane Beeman"
   description: "Lane Beeman is a research technician in the Chen laboratory."
-  image: images/team/beeman-family.png
+  image: images/team/beeman-family-thumbnail.png
 ---
 
 Research Background
