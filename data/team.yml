@@ -1,36 +1,47 @@
 enable  : true
 title   : MEET THE TEAM
 members  :
-  - name  : Kenneth Chen, MD
-    image : images/team/kenneth-chen.jpg
+  - name        : Kenneth Chen, MD
+    image       : images/team/kenneth-chen.jpg
     designation : Principal Investigator<br>Assistant Professor
     email       : Kenneth.Chen@utsw.edu
     description :
     twitter     : kennethschen
 
-  - name  : Lindsay Mendyka
-    image : images/team/lindsay-mendyka.jpg
+  - name        : Lindsay Mendyka
+    image       : images/team/lindsay-mendyka.jpg
     designation : Research Assistant
     description :
     email       : Lindsay.Mendyka@utsw.edu
     twitter     : LindsayMendyka
+    bio         : #members/lmendyka-bio
 
-  - name  : Patricia Tiburcio, PhD
-    image : images/team/patricia-tiburcio.jpg
+  - name        : Patricia Tiburcio, PhD
+    image       : images/team/patricia-tiburcio.jpg
     designation : Postdoctoral Fellow
     description :
     email       : PatriciaDenise.Tiburcio@utsw.edu
     twitter     : pdbtiburcio
+    bio         : #members/ptiburcio-bio
 
-  - name  : Peter Schoettler, MD
-    image : images/team/peter-schoettler.jpg
+  - name        : Peter Schoettler, MD
+    image       : images/team/peter-schoettler.jpg
     designation : Pediatric Hematology-Oncology Fellow
     description :
     email       : Peter.Schoettler@utsw.edu
-    bio : # members/pschoettler-bio
+    bio         : #members/pschoettler-bio
 
-  - name  : Lane Beeman
-    image : images/team/lane-beeman.jpg
+  - name        : Lane Beeman
+    image       : images/team/lane-beeman.jpg
     designation : Research Technician
     description :
     email       : Lane.Beeman@utsw.edu
+    bio         : #members/lbeeman-bio
+
+  - name        : Claudette Fraire
+    image       :
+    designation : Graduate Student
+    description :
+    email       : Claudette.Fraire@utsw.edu
+    bio         : #members/cfraire-bio
+
