@@ -45,5 +45,5 @@ Lastly, working from home has allowed me to spend more time at home with my son 
 
 Stay safe and healthy everyone!
 
-Peter Schoettler, MD   
+[Peter Schoettler, MD](/members/pschoettler-bio)   
 Pediatric Hematology/Oncology Fellow
