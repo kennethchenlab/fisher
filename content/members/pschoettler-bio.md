@@ -1,5 +1,5 @@
 ---
-title: "Peter Schoettler"
+title: "About Peter Schoettler"
 date: 2020-03-24T14:28:20-05:00
 type: post
 author: Peter Schoettler
