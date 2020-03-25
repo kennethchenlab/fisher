@@ -3,7 +3,7 @@ title: "COVID-19, forcing an audible on Peter’s research"
 date: 2020-03-25T13:21:01-05:00
 type: post
 author: Peter Schoettler
-tags: ["spotlight"]
+tags: ["covid19", "spotlight"]
 image: images/news/2020.03.25-baby-toby.png
 twitter:
   card: "summary"
