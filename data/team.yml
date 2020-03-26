@@ -7,7 +7,7 @@ members  :
     email       : Kenneth.Chen@utsw.edu
     description :
     twitter     : kennethschen
-    bio         : #members/kchen-bio
+    bio         : members/kchen-bio
 
   - name        : Lindsay Mendyka
     image       : images/team/lindsay-mendyka.jpg
@@ -40,9 +40,9 @@ members  :
     bio         : members/lbeeman-bio
 
   - name        : Claudette Fraire
-    image       :
+    image       : images/team/claudette-fraire.jpg
     designation : Graduate Student
     description :
     email       : Claudette.Fraire@utsw.edu
-    bio         : #members/cfraire-bio
+    bio         : members/cfraire-bio
 
