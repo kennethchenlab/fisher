@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on Chen lab</title>
@@ -10,6 +10,61 @@
     
 	<atom:link href="https://www.kennethchenlab.com/members/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kenneth Chen</title>
+      <link>https://www.kennethchenlab.com/members/kchen-bio/</link>
+      <pubDate>Thu, 26 Mar 2020 07:01:13 -0500</pubDate>
+      
+      <guid>https://www.kennethchenlab.com/members/kchen-bio/</guid>
+      <description>Research Background As a child, I wanted to study dinosaurs when I grew up. Their might and their majesty left me in awe: these monsters once ruled the earth, yet ultimately they could not survive the progress of time and became relics of biological history.
+Today, I study a different kind of monster: childhood cancer. While we&amp;rsquo;ve made great progress, more children still die of cancer than any other disease in the US.</description>
+    </item>
+    
+    <item>
+      <title>Claudette Fraire</title>
+      <link>https://www.kennethchenlab.com/members/cfraire-bio/</link>
+      <pubDate>Wed, 25 Mar 2020 12:01:06 -0500</pubDate>
+      
+      <guid>https://www.kennethchenlab.com/members/cfraire-bio/</guid>
+      <description>Research Background I first got interested in research while doing a DNA extraction experiment from cheek cells. For my bachelor’s degree, I attended Texas Woman’s University where I participated in various research projects seeking to understand unusual DNA structures, impacts on DNA from UV radiation, and the mechanism of carboplatin. During my time as an undergraduate, I participated in a summer internship at UT Southwestern where I studied Wilms tumor. Since that incredible experience I have made it my career goal to study pediatric cancer.</description>
+    </item>
+    
+    <item>
+      <title>Lane Beeman</title>
+      <link>https://www.kennethchenlab.com/members/lbeeman-bio/</link>
+      <pubDate>Wed, 25 Mar 2020 12:00:54 -0500</pubDate>
+      
+      <guid>https://www.kennethchenlab.com/members/lbeeman-bio/</guid>
+      <description>Research Background My research experience is filled with a variety of animal models, enjoying the challenges and skillset required for each one. My current role in the lab is maintaining the animal colony, providing research support, and executing all experiments using the animal model. I joined the Chen lab in November of 2019 because I was excited to learn more about Wilms tumor and DICER1 Syndrome and to make a difference in lives of pediatric patients.</description>
+    </item>
+    
+    <item>
+      <title>About Patricia Tiburcio</title>
+      <link>https://www.kennethchenlab.com/members/ptiburcio-bio/</link>
+      <pubDate>Wed, 25 Mar 2020 11:44:09 -0500</pubDate>
+      
+      <guid>https://www.kennethchenlab.com/members/ptiburcio-bio/</guid>
+      <description>Research Background I first caught the research bug in 2010 when I joined the Protein Structure and Immunology Laboratory at the University of the Philippines Diliman. I joined the effort in defining the altering landscape of integrins during cancer progression as my undergraduate thesis. After I spent a year working with the Dengue Research Group at St Luke’s Medical Center in Quezon City, Philippines, I moved to Salt Lake City, Utah.</description>
+    </item>
+    
+    <item>
+      <title>About Lindsay Mendyka</title>
+      <link>https://www.kennethchenlab.com/members/lmendyka-bio/</link>
+      <pubDate>Wed, 25 Mar 2020 10:57:02 -0500</pubDate>
+      
+      <guid>https://www.kennethchenlab.com/members/lmendyka-bio/</guid>
+      <description>Research Background I started working in biomedical research in Spring 2014 at UT Southwestern Medical Center. I became very fluent in animal breeding, handling, and dosing techniques. I translated this experience to pediatric cancer research and produce animal models to better understand DICER1 Syndrome. I thoroughly enjoy learning new techniques and procedures and applying them to our research, which is my favorite thing to do while in the lab. I enjoy challenges and teaching my newly acquired knowledge and skills to other lab members.</description>
+    </item>
+    
+    <item>
+      <title>About Peter Schoettler</title>
+      <link>https://www.kennethchenlab.com/members/pschoettler-bio/</link>
+      <pubDate>Tue, 24 Mar 2020 14:28:20 -0500</pubDate>
+      
+      <guid>https://www.kennethchenlab.com/members/pschoettler-bio/</guid>
+      <description>Research Background I&amp;rsquo;ve been involved with researching Pleuropulmonary Blastoma (PPB), a rare Pediatric lung cancer, and DICER1 Syndrome, a cancer predisposition syndrome, since 2006. My sister and brother were the 3rd and 10th cases of PPB, and a DICER1 mutation runs through my family, which has inspired my career trajectory and research focus. In 2006, the genetic cause of PPB was still unknown, but now we know that mutations in the microRNA processing enzyme, DICER1, causes a wide variety of tumors within DICER1 Syndrome.</description>
+    </item>
     
   </channel>
 </rss>

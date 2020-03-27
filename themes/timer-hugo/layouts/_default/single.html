@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
 <section class="global-page-header">
     <div class="container">
@@ -9,7 +9,7 @@
                     <div class="portfolio-meta">
                         <span>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</span>|
                         <span> Tags:
-                            {{ delimit .Params.tags ", " }}
+                            {{ if ne .Params.tags nil }}{{ delimit .Params.tags ", " }}{{ end }}
                         </span>
                     </div>
                 </div>
@@ -37,4 +37,4 @@
 
 {{ partial "cta.html" . }}
 
-{{ partial "footer.html" . }}
+{{ end }}
