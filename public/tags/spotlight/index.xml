@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spotlight on Chen lab</title>
+    <link>https://www.kennethchenlab.com/tags/spotlight/</link>
+    <description>Recent content in spotlight on Chen lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Mar 2020 13:21:01 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.kennethchenlab.com/tags/spotlight/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COVID-19, forcing an audible on Peter’s research</title>
+      <link>https://www.kennethchenlab.com/news/covid-19-forcing-an-audible-on-peters-research/</link>
+      <pubDate>Wed, 25 Mar 2020 13:21:01 -0500</pubDate>
+      
+      <guid>https://www.kennethchenlab.com/news/covid-19-forcing-an-audible-on-peters-research/</guid>
+      <description>Prior to COVID-19 Life before COVID-19 in some ways seems a lifetime ago, but it was less than two weeks ago that research, work, and life in general were running smoothly. I was dropping my son off at daycare, going to work every day, and able to buy toilet paper whenever I wanted.
+I was finally starting to make some progress on my project trying to find new treatments for the rare pediatric lung cancer, Pleuropulmonary Blastoma, or PPB.</description>
+    </item>
+    
+  </channel>
+</rss>
