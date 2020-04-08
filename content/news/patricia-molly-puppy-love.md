@@ -17,6 +17,6 @@ twitter:
 
 # Molly: Puppy Love in the Time of Corona
 
-The past 3 months have upended the lives of people across the world. With the battle to bring the spread of SARS-CoV-2 to a slow crawl (and hopefully to a screeching halt), I think we can all agree that this pandemic had one clear winner: dogs. Dogs around the finally got their humans to stay at home. Here is one dog’s perspective on the current situation.
+The past 3 months have upended the lives of people across the world. With the battle to bring the spread of SARS-CoV-2 to a slow crawl (and hopefully to a screeching halt), I think we can all agree that this pandemic had one clear winner: dogs. Dogs around the globe finally got their humans to stay at home. Here is one dog’s perspective on the current situation.
 
 [Patricia Tiburcio](/members/ptiburcio-bio)   
