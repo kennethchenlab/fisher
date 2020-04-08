@@ -9,7 +9,7 @@ twitter:
   card: "summary"
   site: "@kennethschen"
   title: "Lane Beeman: Shelter in place"
-  description: "Spotlight on Lane Beeman"
+  description: "Day #3005? of quarantine: Life at the Beeman household has been going pretty well."
   image: images/news/lane-atticus-computer-thumbnail.jpg
 ---
 
