@@ -46,3 +46,10 @@ members  :
     email       : Claudette.Fraire@utsw.edu
     bio         : members/cfraire-bio
 
+  - name        : Taylor Hartshorne
+    image       : images/team/taylor-hartshorne-646.png
+    designation : Research Technician
+    description :
+    email       : Taylor.Hartshorne@utsw.edu
+    bio         : members/thartshorne-bio
+
