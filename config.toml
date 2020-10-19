@@ -94,4 +94,4 @@ theme = "timer-hugo"
             link = "https://twitter.com/kennethschen"
         [[params.footer.social]]
             icon = "ion-social-github"
-            link = "https://github.com/kschenlab"
+            link = "https://github.com/kennethchenlab"
