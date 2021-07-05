@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chen lab</title>
@@ -6,24 +6,51 @@
     <description>Recent content in Tags on Chen lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jun 2019 09:17:30 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 05:01:06 -0500</lastBuildDate>
     
 	<atom:link href="https://www.kennethchenlab.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Announcements</title>
+      <title>bios</title>
+      <link>https://www.kennethchenlab.com/tags/bios/</link>
+      <pubDate>Mon, 13 Jul 2020 05:01:06 -0500</pubDate>
+      
+      <guid>https://www.kennethchenlab.com/tags/bios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid19</title>
+      <link>https://www.kennethchenlab.com/tags/covid19/</link>
+      <pubDate>Wed, 22 Apr 2020 03:23:40 -0500</pubDate>
+      
+      <guid>https://www.kennethchenlab.com/tags/covid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spotlight</title>
+      <link>https://www.kennethchenlab.com/tags/spotlight/</link>
+      <pubDate>Wed, 22 Apr 2020 03:23:40 -0500</pubDate>
+      
+      <guid>https://www.kennethchenlab.com/tags/spotlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>announcements</title>
       <link>https://www.kennethchenlab.com/tags/announcements/</link>
-      <pubDate>Wed, 19 Jun 2019 09:17:30 -0600</pubDate>
+      <pubDate>Wed, 27 Nov 2019 11:17:30 -0600</pubDate>
       
       <guid>https://www.kennethchenlab.com/tags/announcements/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recruitment</title>
+      <title>recruitment</title>
       <link>https://www.kennethchenlab.com/tags/recruitment/</link>
-      <pubDate>Wed, 19 Jun 2019 09:17:30 -0600</pubDate>
+      <pubDate>Wed, 27 Nov 2019 11:17:30 -0600</pubDate>
       
       <guid>https://www.kennethchenlab.com/tags/recruitment/</guid>
       <description></description>
