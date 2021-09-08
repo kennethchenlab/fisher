@@ -46,6 +46,14 @@ members  :
     email       : Claudette.Fraire@utsw.edu
     bio         : members/cfraire-bio
 
+  - name        : Bendu Konneh
+    image       : images/team/bendu-konneh.jpg
+    designation : Research Technician
+    description :
+    email       : Bendu.Konneh@utsw.edu
+    bio         : members/bkonneh-bio
+
+
   # - name        : Taylor Hartshorne
   #   image       : images/team/taylor-hartshorne-646.png
   #   designation : Research Technician
