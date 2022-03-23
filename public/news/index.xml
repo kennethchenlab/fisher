@@ -6,11 +6,7 @@
     <description>Recent content in News on Chen lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate>
-    
-	<atom:link href="https://www.kennethchenlab.com/news/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate><atom:link href="https://www.kennethchenlab.com/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The limits of precision</title>
       <link>https://www.kennethchenlab.com/news/kchen-limits-of-precision/</link>
