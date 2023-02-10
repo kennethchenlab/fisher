@@ -3,9 +3,30 @@ title   :    PUBLICATIONS
 subtitle:    Here are some of our latest works.
 image   :
 pub     :
+
+  - reference: 	Xu L*, Pierce JL*, Sanchez A*, Chen KS, Shukla AA, Fustino NJ, Stuart S, Bagrodia A, Xiao X, Guo L, Krailo MD, Shaikh F, Billmire D, Pashankar F, Bestrashniy J, Oosterhuis JW, Gillis AJM, Xie Y, Teot L, Mora J, Poynter JN, Rakheja D, Looijenga LHJ, Draper DW, Frazier AL, Amatruda JF. Integrated genomic analysis reveals aberrations in WNT signaling in germ cell tumors of childhood and adolescence. Nat Commun. <i>Accepted for publication.</i>
+    doi: 
+    pubmed:  
+    pubmedcentral: 
+    biorxiv:
+
+
+  - reference: 	Medvedev KE, Savelyeva AV, Chen KS, Bagrodia A, Jia L, Grishin NV. Integrated molecular analysis reveals two distinct subtypes of pure seminoma of the testis. Cancer Inform. 2022. 
+    doi: 10.1177/11769351221132634
+    pubmed:  36330202
+    pubmedcentral: PMC9623390
+    biorxiv:
+    
+  - reference: "Willis KR, Sathe AA, Xing C, Chen KS, Artunduaga M, Koduru P, Park JY, Rakheja D. Extra-renal anaplastic Wilms tumor: Whole exome profiling and characterization of a primary cell line. J Pediatr Hemat Oncol. 2022 Feb 4."
+    doi: 10.1097/MPH.0000000000002413
+    pubmed:  35129140
+    pubmedcentral: PMC9035038
+    biorxiv: 
+
   - reference: Chen KS, Stroup EK, Budhipramono A, Rakheja D, Nichols-Vinueza D, Xu L, Stuart SH, Shukla AA, Fraire C, Mendell JT, Amatruda JF. Mutations in microRNA processing genes in Wilms tumors upregulate <i>IGF2</i> through de-repression of <i>PLAG1</i>. Genes Dev. August 1, 2018 32:996-1007.
     doi: 10.1101/gad.313783.118
     pubmed:  30026293
+    pubmedcentral: PMC6075147
     biorxiv:
 
   - reference: Stroup EK, Yeu Y, Budhipramono A, Hwang TH, Rakheja D, Erdreich-Epstein A, Laetsch TW, Amatruda JF, Chen KS. miR-16 suppresses growth of rhabdoid tumor cells. Cancer Reports. 2018.
