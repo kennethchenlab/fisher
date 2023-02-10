@@ -1,5 +1,6 @@
 enable  : true
 title   : MEET THE TEAM
+subtitle : SOME FORMER MEMBERS
 members  :
   - name        : Kenneth Chen, MD
     image       : images/team/kenneth-chen.jpg
@@ -24,12 +25,12 @@ members  :
     email       : Claudette.Fraire@utsw.edu
     bio         : members/cfraire-bio
 
-  - name        : Bendu Konneh
-    image       : images/team/bendu-konneh.jpg
+  - name        : Jana Hadas
+    image       : images/team/jana-hadas.jpg
     designation : Research Technician
     description :
-    email       : Bendu.Konneh@utsw.edu
-    bio         : members/bkonneh-bio
+    email       : Jana.Hadas@utsw.edu
+    bio         : members/jhadas-bio
 
   - name        : Chelcea Zamora
     image       : images/team/czamora.jpg
@@ -38,6 +39,13 @@ members  :
     email       : Chelcea.Zamora@utsw.edu
     bio         : members/czamora-bio
 
+
+  # - name        : Bendu Konneh
+  #   image       : images/team/bendu-konneh.jpg
+  #   designation : Research Technician
+  #   description :
+  #   email       : Bendu.Konneh@utsw.edu
+  #   bio         : members/bkonneh-bio
 
   # - name        : Lindsay Mendyka
   #   image       : images/team/lindsay-mendyka.jpg
