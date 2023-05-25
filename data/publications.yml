@@ -5,11 +5,23 @@ image   :
 pub     :
 
   - reference: 	Xu L*, Pierce JL*, Sanchez A*, Chen KS, Shukla AA, Fustino NJ, Stuart S, Bagrodia A, Xiao X, Guo L, Krailo MD, Shaikh F, Billmire D, Pashankar F, Bestrashniy J, Oosterhuis JW, Gillis AJM, Xie Y, Teot L, Mora J, Poynter JN, Rakheja D, Looijenga LHJ, Draper DW, Frazier AL, Amatruda JF. Integrated genomic analysis reveals aberrations in WNT signaling in germ cell tumors of childhood and adolescence. Nat Commun. <i>Accepted for publication.</i>
-    doi: 
-    pubmed:  
+    doi: 10.1038/s41467-023-38378-9
+    pubmed:  37149691
+    pubmedcentral: PMC10164134
+    biorxiv:
+
+
+  - reference:	Aguayo JS, Shelton JM, Tan W, Rakheja D, Cai C, Shalaby A, Lee J, Iannaccone ST, Xu L, Chen KS, Burns DK, Zheng Y. Ectopic PLAG1 induces muscular dystrophy in the mouse. Biochem Biophys Res Commun.  <i>Accepted for publication.</i> 
+    doi: 10.1016/j.bbrc.2023.05.006
+    pubmed:  37163936
     pubmedcentral: 
     biorxiv:
 
+  - reference: Hatton JN, Frone MN, Cox HC, Crowley SB, Hiraki S, Yokoyama NN, Abul-Husn NS, Amatruda JF, Anderson MJ, Bofill-De Ros X, Carr AG, Chao EC, Chen KS, Gu S, Higgs C, Machado J, Ritter D, Schultz KAP, Soper ER, Wu MK, Mester JL, Kim J, Foulkes WD, Witkowski L, Stewart DR. Specifications of the ACMG/AMP variant classification guidelines for germline DICER1 variant curation. Human Mutation. 2023.	
+    doi: 10.1155/2023/9537832
+    pubmed:  
+    pubmedcentral: 
+    biorxiv:
 
   - reference: 	Medvedev KE, Savelyeva AV, Chen KS, Bagrodia A, Jia L, Grishin NV. Integrated molecular analysis reveals two distinct subtypes of pure seminoma of the testis. Cancer Inform. 2022. 
     doi: 10.1177/11769351221132634
@@ -35,7 +47,8 @@ pub     :
 
   - reference: Chen KS*, Stuart SH*, Stroup EK, Shukla AS, Wang J, Rajaram V, Vujanic G, Slone T, Rakheja D, Amatruda JF. Distinct DICER1 hotspot mutations identify bilateral tumors as separate events. JCO Precision Oncology. 2018.
     doi: 10.1200/PO.17.00113
-    pubmed:
+    pubmed: 31893257
+    pubmedcentral: PMC6938390
 
   - reference: Chen KS*, Fustino NJ*, Shukla AA, Stroup EK, Budhipramono A, Ateek C, Stuart S, Yamaguchi K, Kapur P, Frazier AL, Lum L, Looijenga LHJ, Laetsch TW, Rakheja D, Amatruda JF. EGF receptor and mTORC1 are novel therapeutic targets in nonseminomatous germ cell tumors. Mol Cancer Ther. 2018 May; 17(5):1079-1089.
     doi: 10.1158/1535-7163.MCT-17-0137
