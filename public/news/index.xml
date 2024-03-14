@@ -2,107 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Chen lab</title>
-    <link>https://www.kennethchenlab.com/news/</link>
+    <link>http://localhost:1313/news/</link>
     <description>Recent content in News on Chen lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate><atom:link href="https://www.kennethchenlab.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Apr 2020 03:23:40 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The limits of precision</title>
-      <link>https://www.kennethchenlab.com/news/kchen-limits-of-precision/</link>
+      <link>http://localhost:1313/news/kchen-limits-of-precision/</link>
       <pubDate>Wed, 22 Apr 2020 03:23:40 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/kchen-limits-of-precision/</guid>
-      <description>I&amp;rsquo;ve taken advantage of the quarantine to finally finish The Emperor of All Maladies. I was particularly struck by one of the book&amp;rsquo;s heroes, Sidney Farber, who developed the first drug to treat cancer. Through a combination of determination and serendipity, he discovered that folate blockers could cure childhood leukemia, at least temporarily.
-Today, further advances in therapy have brought once-unthinkable cures to leukemia and other cancers. Of course, the side-effects of these therapies also mean that supportive care has needed to evolve alongside it.</description>
+      <guid>http://localhost:1313/news/kchen-limits-of-precision/</guid>
+      <description>I&amp;rsquo;ve taken advantage of the quarantine to finally finish The Emperor of All Maladies. I was particularly struck by one of the book&amp;rsquo;s heroes, Sidney Farber, who developed the first drug to treat cancer. Through a combination of determination and serendipity, he discovered that folate blockers could cure childhood leukemia, at least temporarily.&#xA;Today, further advances in therapy have brought once-unthinkable cures to leukemia and other cancers. Of course, the side-effects of these therapies also mean that supportive care has needed to evolve alongside it.</description>
     </item>
-    
     <item>
       <title>Surviving The Quarantine</title>
-      <link>https://www.kennethchenlab.com/news/lindsay-surviving/</link>
+      <link>http://localhost:1313/news/lindsay-surviving/</link>
       <pubDate>Wed, 15 Apr 2020 15:29:30 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/lindsay-surviving/</guid>
-      <description>To say life has been challenging since the pandemic began would be an understatement. I am choosing to live my quarantine life positively and take this time to learn and enhance techniques, and just be thankful for what I have in life (even when the baby hits my drink and spills it on himself). :)
-Working from home has been great! I am able to wake up later and still begin working earlier than normal.</description>
+      <guid>http://localhost:1313/news/lindsay-surviving/</guid>
+      <description>To say life has been challenging since the pandemic began would be an understatement. I am choosing to live my quarantine life positively and take this time to learn and enhance techniques, and just be thankful for what I have in life (even when the baby hits my drink and spills it on himself). :)&#xA;Working from home has been great! I am able to wake up later and still begin working earlier than normal.</description>
     </item>
-    
     <item>
       <title>Molly: Puppy Love in the Time of Corona</title>
-      <link>https://www.kennethchenlab.com/news/patricia-molly-puppy-love/</link>
+      <link>http://localhost:1313/news/patricia-molly-puppy-love/</link>
       <pubDate>Wed, 08 Apr 2020 10:35:48 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/patricia-molly-puppy-love/</guid>
+      <guid>http://localhost:1313/news/patricia-molly-puppy-love/</guid>
       <description>Molly: Puppy Love in the Time of Corona The past 3 months have upended the lives of people across the world. With the battle to bring the spread of SARS-CoV-2 to a slow crawl (and hopefully to a screeching halt), I think we can all agree that this pandemic had one clear winner: dogs. Dogs around the globe finally got their humans to stay at home. Here is one dog’s perspective on the current situation.</description>
     </item>
-    
     <item>
       <title>Shelter in Place</title>
-      <link>https://www.kennethchenlab.com/news/lane-blog/</link>
+      <link>http://localhost:1313/news/lane-blog/</link>
       <pubDate>Fri, 03 Apr 2020 10:40:26 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/lane-blog/</guid>
+      <guid>http://localhost:1313/news/lane-blog/</guid>
       <description>Day #3005? of quarantine: Life at the Beeman household has been going pretty well. The days are starting to blend together, and things we did last week seem like a month ago. Since my husband has been deemed “non-essential”, he has been off work for the past few weeks and has been fully embracing the stay-at-home-dad life. We have been filling our days with projects around the house, like finally unpacking from moving a few months ago and catching up on yard work that we have been putting off.</description>
     </item>
-    
     <item>
       <title>COVID-19, forcing an audible on Peter’s research</title>
-      <link>https://www.kennethchenlab.com/news/covid-19-forcing-an-audible-on-peters-research/</link>
+      <link>http://localhost:1313/news/covid-19-forcing-an-audible-on-peters-research/</link>
       <pubDate>Wed, 25 Mar 2020 13:21:01 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/covid-19-forcing-an-audible-on-peters-research/</guid>
-      <description>Prior to COVID-19 Life before COVID-19 in some ways seems a lifetime ago, but it was less than two weeks ago that research, work, and life in general were running smoothly. I was dropping my son off at daycare, going to work every day, and able to buy toilet paper whenever I wanted.
-I was finally starting to make some progress on my project trying to find new treatments for the rare pediatric lung cancer, Pleuropulmonary Blastoma, or PPB.</description>
+      <guid>http://localhost:1313/news/covid-19-forcing-an-audible-on-peters-research/</guid>
+      <description>Prior to COVID-19 Life before COVID-19 in some ways seems a lifetime ago, but it was less than two weeks ago that research, work, and life in general were running smoothly. I was dropping my son off at daycare, going to work every day, and able to buy toilet paper whenever I wanted.&#xA;I was finally starting to make some progress on my project trying to find new treatments for the rare pediatric lung cancer, Pleuropulmonary Blastoma, or PPB.</description>
     </item>
-    
     <item>
       <title>Welcome, Lane!</title>
-      <link>https://www.kennethchenlab.com/news/welcome-lane/</link>
+      <link>http://localhost:1313/news/welcome-lane/</link>
       <pubDate>Wed, 27 Nov 2019 11:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/welcome-lane/</guid>
-      <description>The lab continues to grow!
-Just in time for the holidays, we&amp;rsquo;re excited that Lane Beeman has agreed to join us as a research technician. She brings years of experience working with mice (and fish), and she makes a smooth transition to stay within the Amatruda lab family!</description>
+      <guid>http://localhost:1313/news/welcome-lane/</guid>
+      <description>The lab continues to grow!&#xA;Just in time for the holidays, we&amp;rsquo;re excited that Lane Beeman has agreed to join us as a research technician. She brings years of experience working with mice (and fish), and she makes a smooth transition to stay within the Amatruda lab family!</description>
     </item>
-    
     <item>
       <title>Welcome!</title>
-      <link>https://www.kennethchenlab.com/news/welcome-peter/</link>
+      <link>http://localhost:1313/news/welcome-peter/</link>
       <pubDate>Fri, 09 Aug 2019 10:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/welcome-peter/</guid>
-      <description>Welcome to our newest member!
-We&amp;rsquo;re excited to welcome Peter Schoettler, a UT Southwestern Pediatric Hematology-Oncology fellow. He brings with him a long track record of working with the DICER1 syndrome community and will work on characterizing the biology and treatment of DICER1 syndrome tumors.</description>
+      <guid>http://localhost:1313/news/welcome-peter/</guid>
+      <description>Welcome to our newest member!&#xA;We&amp;rsquo;re excited to welcome Peter Schoettler, a UT Southwestern Pediatric Hematology-Oncology fellow. He brings with him a long track record of working with the DICER1 syndrome community and will work on characterizing the biology and treatment of DICER1 syndrome tumors.</description>
     </item>
-    
     <item>
       <title>Welcome!</title>
-      <link>https://www.kennethchenlab.com/news/welcome-patricia/</link>
+      <link>http://localhost:1313/news/welcome-patricia/</link>
       <pubDate>Wed, 19 Jun 2019 09:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/welcome-patricia/</guid>
+      <guid>http://localhost:1313/news/welcome-patricia/</guid>
       <description>Welcome to our newest member! Last week Patricia Tiburcio joined the lab as our first postdoctoral fellow. Patricia recently completed her Ph.D. at the University of Utah, where she studied IDH1 mutations in the laboratory of Dr. Eric Huang.</description>
     </item>
-    
     <item>
       <title>Postdoc opening!</title>
-      <link>https://www.kennethchenlab.com/news/postdoc/</link>
+      <link>http://localhost:1313/news/postdoc/</link>
       <pubDate>Thu, 07 Mar 2019 09:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/postdoc/</guid>
-      <description>It&amp;rsquo;s official! We&amp;rsquo;re ready to recruit our first postdoctoral fellow!
-We&amp;rsquo;re looking for a fearless scientist to join our group. If you or someone you know is interested in how mutations dysregulate genes to cause childhood cancer, please let us know!</description>
+      <guid>http://localhost:1313/news/postdoc/</guid>
+      <description>It&amp;rsquo;s official! We&amp;rsquo;re ready to recruit our first postdoctoral fellow!&#xA;We&amp;rsquo;re looking for a fearless scientist to join our group. If you or someone you know is interested in how mutations dysregulate genes to cause childhood cancer, please let us know!</description>
     </item>
-    
     <item>
       <title>New Website</title>
-      <link>https://www.kennethchenlab.com/news/a-new-year/</link>
+      <link>http://localhost:1313/news/a-new-year/</link>
       <pubDate>Thu, 28 Feb 2019 18:20:59 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/a-new-year/</guid>
-      <description>Welcome to the Chen lab website!
-We&amp;rsquo;re excited to get working on getting the lab started: buying equipment, recruiting people to join the team, and pushing back the boundaries of cancer science. Please enjoy the site and let us know if you have any comments or find any bugs! We hope to update this space regularly with lab events and announcements.</description>
+      <guid>http://localhost:1313/news/a-new-year/</guid>
+      <description>Welcome to the Chen lab website!&#xA;We&amp;rsquo;re excited to get working on getting the lab started: buying equipment, recruiting people to join the team, and pushing back the boundaries of cancer science. Please enjoy the site and let us know if you have any comments or find any bugs! We hope to update this space regularly with lab events and announcements.</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,55 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chen lab</title>
-    <link>https://www.kennethchenlab.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Chen lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jan 2023 10:57:02 -0500</lastBuildDate><atom:link href="https://www.kennethchenlab.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 10:57:02 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bios</title>
-      <link>https://www.kennethchenlab.com/tags/bios/</link>
+      <title>Bios</title>
+      <link>http://localhost:1313/tags/bios/</link>
       <pubDate>Wed, 25 Jan 2023 10:57:02 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/tags/bios/</guid>
+      <guid>http://localhost:1313/tags/bios/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>covid19</title>
-      <link>https://www.kennethchenlab.com/tags/covid19/</link>
+      <title>Covid19</title>
+      <link>http://localhost:1313/tags/covid19/</link>
       <pubDate>Wed, 22 Apr 2020 03:23:40 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/tags/covid19/</guid>
+      <guid>http://localhost:1313/tags/covid19/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>spotlight</title>
-      <link>https://www.kennethchenlab.com/tags/spotlight/</link>
+      <title>Spotlight</title>
+      <link>http://localhost:1313/tags/spotlight/</link>
       <pubDate>Wed, 22 Apr 2020 03:23:40 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/tags/spotlight/</guid>
+      <guid>http://localhost:1313/tags/spotlight/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>announcements</title>
-      <link>https://www.kennethchenlab.com/tags/announcements/</link>
+      <title>Announcements</title>
+      <link>http://localhost:1313/tags/announcements/</link>
       <pubDate>Wed, 27 Nov 2019 11:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/tags/announcements/</guid>
+      <guid>http://localhost:1313/tags/announcements/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>recruitment</title>
-      <link>https://www.kennethchenlab.com/tags/recruitment/</link>
+      <title>Recruitment</title>
+      <link>http://localhost:1313/tags/recruitment/</link>
       <pubDate>Wed, 27 Nov 2019 11:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/tags/recruitment/</guid>
+      <guid>http://localhost:1313/tags/recruitment/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

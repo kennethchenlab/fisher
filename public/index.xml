@@ -2,201 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chen lab</title>
-    <link>https://www.kennethchenlab.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Chen lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jan 2023 10:57:02 -0500</lastBuildDate><atom:link href="https://www.kennethchenlab.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 10:57:02 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Jana Hadas</title>
-      <link>https://www.kennethchenlab.com/members/jhadas-bio/</link>
+      <link>http://localhost:1313/members/jhadas-bio/</link>
       <pubDate>Wed, 25 Jan 2023 10:57:02 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/members/jhadas-bio/</guid>
-      <description>Research Background I joined Dr. Chen&amp;rsquo;s lab early 2022 as lab manager. Our lab is focusing on pediatric kidney cancer, which brought me back to microscopy to see beautiful images of developmental stages of kidney tumors in mice. Previously, I worked in the Departments of Pharmacology (with insect cells and parasites) and Neurology (on COVID-19), and every job has expanded my knowledge and enriched me.
-When I&amp;rsquo;m not in the lab Science is also involved in my hobbies.</description>
+      <guid>http://localhost:1313/members/jhadas-bio/</guid>
+      <description>Research Background I joined Dr. Chen&amp;rsquo;s lab early 2022 as lab manager. Our lab is focusing on pediatric kidney cancer, which brought me back to microscopy to see beautiful images of developmental stages of kidney tumors in mice. Previously, I worked in the Departments of Pharmacology (with insect cells and parasites) and Neurology (on COVID-19), and every job has expanded my knowledge and enriched me.&#xA;When I&amp;rsquo;m not in the lab Science is also involved in my hobbies.</description>
     </item>
-    
     <item>
       <title>About Chelcea Zamora</title>
-      <link>https://www.kennethchenlab.com/members/czamora-bio/</link>
+      <link>http://localhost:1313/members/czamora-bio/</link>
       <pubDate>Thu, 17 Mar 2022 10:57:02 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/members/czamora-bio/</guid>
-      <description>Research Background My current role in the lab is maintaining the animal colony, providing research support, I was granted the opportunity to join the Chen lab in October of 2021. I was excited to learn about all the different studies and new developments with pediatric patients. I love meeting new people and working with animals.
-When I&amp;rsquo;m not in the lab When I am not in the Lab, you can find me spending most of my time with my daughter Raelynn and my husband Justin.</description>
+      <guid>http://localhost:1313/members/czamora-bio/</guid>
+      <description>Research Background My current role in the lab is maintaining the animal colony, providing research support, I was granted the opportunity to join the Chen lab in October of 2021. I was excited to learn about all the different studies and new developments with pediatric patients. I love meeting new people and working with animals.&#xA;When I&amp;rsquo;m not in the lab When I am not in the Lab, you can find me spending most of my time with my daughter Raelynn and my husband Justin.</description>
     </item>
-    
     <item>
       <title>Bendu Konneh</title>
-      <link>https://www.kennethchenlab.com/members/bkonneh-bio/</link>
+      <link>http://localhost:1313/members/bkonneh-bio/</link>
       <pubDate>Wed, 08 Sep 2021 14:28:20 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/members/bkonneh-bio/</guid>
-      <description>Research Background My first professional exposure to research was in a urological oncology lab studying molecular biomarkers of testicular germ cell tumors. After a year, I was granted the opportunity to join the Chen Lab and contribute to research related to genetic drivers of pediatric cancers. Currently, my role in lab is to provide administrative laboratory support and maintain the rodent breeding colonies.
-When I&amp;rsquo;m not in the lab/hospital I spend much of my time devouring content related to true crime and macabre human history in the form of podcasts and documentaries.</description>
+      <guid>http://localhost:1313/members/bkonneh-bio/</guid>
+      <description>Research Background My first professional exposure to research was in a urological oncology lab studying molecular biomarkers of testicular germ cell tumors. After a year, I was granted the opportunity to join the Chen Lab and contribute to research related to genetic drivers of pediatric cancers. Currently, my role in lab is to provide administrative laboratory support and maintain the rodent breeding colonies.&#xA;When I&amp;rsquo;m not in the lab/hospital I spend much of my time devouring content related to true crime and macabre human history in the form of podcasts and documentaries.</description>
     </item>
-    
     <item>
       <title>Taylor Hartshorne</title>
-      <link>https://www.kennethchenlab.com/members/thartshorne-bio/</link>
+      <link>http://localhost:1313/members/thartshorne-bio/</link>
       <pubDate>Mon, 13 Jul 2020 05:01:06 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/members/thartshorne-bio/</guid>
+      <guid>http://localhost:1313/members/thartshorne-bio/</guid>
       <description>Research Background My research experience began at New Mexico State University while taking an independent research lab course for my Bachelor’s degree. Once I saw how the information that I had learned in my genetics classes could be applied in the lab to solve real-life problems, I was hooked. I am excited to further my research experience by studying pediatric cancer in the Chen lab prior to applying to medical school, for the specialty is a great way to merge my academic interest in molecular genetics and personal passion for working with children.</description>
     </item>
-    
     <item>
       <title>The limits of precision</title>
-      <link>https://www.kennethchenlab.com/news/kchen-limits-of-precision/</link>
+      <link>http://localhost:1313/news/kchen-limits-of-precision/</link>
       <pubDate>Wed, 22 Apr 2020 03:23:40 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/kchen-limits-of-precision/</guid>
-      <description>I&amp;rsquo;ve taken advantage of the quarantine to finally finish The Emperor of All Maladies. I was particularly struck by one of the book&amp;rsquo;s heroes, Sidney Farber, who developed the first drug to treat cancer. Through a combination of determination and serendipity, he discovered that folate blockers could cure childhood leukemia, at least temporarily.
-Today, further advances in therapy have brought once-unthinkable cures to leukemia and other cancers. Of course, the side-effects of these therapies also mean that supportive care has needed to evolve alongside it.</description>
+      <guid>http://localhost:1313/news/kchen-limits-of-precision/</guid>
+      <description>I&amp;rsquo;ve taken advantage of the quarantine to finally finish The Emperor of All Maladies. I was particularly struck by one of the book&amp;rsquo;s heroes, Sidney Farber, who developed the first drug to treat cancer. Through a combination of determination and serendipity, he discovered that folate blockers could cure childhood leukemia, at least temporarily.&#xA;Today, further advances in therapy have brought once-unthinkable cures to leukemia and other cancers. Of course, the side-effects of these therapies also mean that supportive care has needed to evolve alongside it.</description>
     </item>
-    
     <item>
       <title>Surviving The Quarantine</title>
-      <link>https://www.kennethchenlab.com/news/lindsay-surviving/</link>
+      <link>http://localhost:1313/news/lindsay-surviving/</link>
       <pubDate>Wed, 15 Apr 2020 15:29:30 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/lindsay-surviving/</guid>
-      <description>To say life has been challenging since the pandemic began would be an understatement. I am choosing to live my quarantine life positively and take this time to learn and enhance techniques, and just be thankful for what I have in life (even when the baby hits my drink and spills it on himself). :)
-Working from home has been great! I am able to wake up later and still begin working earlier than normal.</description>
+      <guid>http://localhost:1313/news/lindsay-surviving/</guid>
+      <description>To say life has been challenging since the pandemic began would be an understatement. I am choosing to live my quarantine life positively and take this time to learn and enhance techniques, and just be thankful for what I have in life (even when the baby hits my drink and spills it on himself). :)&#xA;Working from home has been great! I am able to wake up later and still begin working earlier than normal.</description>
     </item>
-    
     <item>
       <title>Molly: Puppy Love in the Time of Corona</title>
-      <link>https://www.kennethchenlab.com/news/patricia-molly-puppy-love/</link>
+      <link>http://localhost:1313/news/patricia-molly-puppy-love/</link>
       <pubDate>Wed, 08 Apr 2020 10:35:48 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/patricia-molly-puppy-love/</guid>
+      <guid>http://localhost:1313/news/patricia-molly-puppy-love/</guid>
       <description>Molly: Puppy Love in the Time of Corona The past 3 months have upended the lives of people across the world. With the battle to bring the spread of SARS-CoV-2 to a slow crawl (and hopefully to a screeching halt), I think we can all agree that this pandemic had one clear winner: dogs. Dogs around the globe finally got their humans to stay at home. Here is one dog’s perspective on the current situation.</description>
     </item>
-    
     <item>
       <title>Shelter in Place</title>
-      <link>https://www.kennethchenlab.com/news/lane-blog/</link>
+      <link>http://localhost:1313/news/lane-blog/</link>
       <pubDate>Fri, 03 Apr 2020 10:40:26 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/lane-blog/</guid>
+      <guid>http://localhost:1313/news/lane-blog/</guid>
       <description>Day #3005? of quarantine: Life at the Beeman household has been going pretty well. The days are starting to blend together, and things we did last week seem like a month ago. Since my husband has been deemed “non-essential”, he has been off work for the past few weeks and has been fully embracing the stay-at-home-dad life. We have been filling our days with projects around the house, like finally unpacking from moving a few months ago and catching up on yard work that we have been putting off.</description>
     </item>
-    
     <item>
       <title>Kenneth Chen</title>
-      <link>https://www.kennethchenlab.com/members/kchen-bio/</link>
+      <link>http://localhost:1313/members/kchen-bio/</link>
       <pubDate>Thu, 26 Mar 2020 07:01:13 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/members/kchen-bio/</guid>
-      <description>Research Background As a child, I wanted to study dinosaurs when I grew up. Their might and their majesty left me in awe: these monsters once ruled the earth, yet ultimately they could not survive the progress of time and became relics of biological history.
-Today, I study a different kind of monster: childhood cancer. While we&amp;rsquo;ve made great progress, more children still die of cancer than any other disease in the US.</description>
+      <guid>http://localhost:1313/members/kchen-bio/</guid>
+      <description>Research Background As a child, I wanted to study dinosaurs when I grew up. Their might and their majesty left me in awe: these monsters once ruled the earth, yet ultimately they could not survive the progress of time and became relics of biological history.&#xA;Today, I study a different kind of monster: childhood cancer. While we&amp;rsquo;ve made great progress, more children still die of cancer than any other disease in the US.</description>
     </item>
-    
     <item>
       <title>COVID-19, forcing an audible on Peter’s research</title>
-      <link>https://www.kennethchenlab.com/news/covid-19-forcing-an-audible-on-peters-research/</link>
+      <link>http://localhost:1313/news/covid-19-forcing-an-audible-on-peters-research/</link>
       <pubDate>Wed, 25 Mar 2020 13:21:01 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/covid-19-forcing-an-audible-on-peters-research/</guid>
-      <description>Prior to COVID-19 Life before COVID-19 in some ways seems a lifetime ago, but it was less than two weeks ago that research, work, and life in general were running smoothly. I was dropping my son off at daycare, going to work every day, and able to buy toilet paper whenever I wanted.
-I was finally starting to make some progress on my project trying to find new treatments for the rare pediatric lung cancer, Pleuropulmonary Blastoma, or PPB.</description>
+      <guid>http://localhost:1313/news/covid-19-forcing-an-audible-on-peters-research/</guid>
+      <description>Prior to COVID-19 Life before COVID-19 in some ways seems a lifetime ago, but it was less than two weeks ago that research, work, and life in general were running smoothly. I was dropping my son off at daycare, going to work every day, and able to buy toilet paper whenever I wanted.&#xA;I was finally starting to make some progress on my project trying to find new treatments for the rare pediatric lung cancer, Pleuropulmonary Blastoma, or PPB.</description>
     </item>
-    
     <item>
       <title>Claudette Fraire</title>
-      <link>https://www.kennethchenlab.com/members/cfraire-bio/</link>
+      <link>http://localhost:1313/members/cfraire-bio/</link>
       <pubDate>Wed, 25 Mar 2020 12:01:06 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/members/cfraire-bio/</guid>
+      <guid>http://localhost:1313/members/cfraire-bio/</guid>
       <description>Research Background I first got interested in research while doing a DNA extraction experiment from cheek cells. For my bachelor’s degree, I attended Texas Woman’s University where I participated in various research projects seeking to understand unusual DNA structures, impacts on DNA from UV radiation, and the mechanism of carboplatin. During my time as an undergraduate, I participated in a summer internship at UT Southwestern where I studied Wilms tumor. Since that incredible experience I have made it my career goal to study pediatric cancer.</description>
     </item>
-    
     <item>
       <title>Lane Beeman</title>
-      <link>https://www.kennethchenlab.com/members/lbeeman-bio/</link>
+      <link>http://localhost:1313/members/lbeeman-bio/</link>
       <pubDate>Wed, 25 Mar 2020 12:00:54 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/members/lbeeman-bio/</guid>
+      <guid>http://localhost:1313/members/lbeeman-bio/</guid>
       <description>Research Background My research experience is filled with a variety of animal models, enjoying the challenges and skillset required for each one. My current role in the lab is maintaining the animal colony, providing research support, and executing all experiments using the animal model. I joined the Chen lab in November of 2019 because I was excited to learn more about Wilms tumor and DICER1 Syndrome and to make a difference in lives of pediatric patients.</description>
     </item>
-    
     <item>
       <title>About Patricia Tiburcio</title>
-      <link>https://www.kennethchenlab.com/members/ptiburcio-bio/</link>
+      <link>http://localhost:1313/members/ptiburcio-bio/</link>
       <pubDate>Wed, 25 Mar 2020 11:44:09 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/members/ptiburcio-bio/</guid>
+      <guid>http://localhost:1313/members/ptiburcio-bio/</guid>
       <description>Research Background I first caught the research bug in 2010 when I joined the Protein Structure and Immunology Laboratory at the University of the Philippines Diliman. I joined the effort in defining the altering landscape of integrins during cancer progression as my undergraduate thesis. After I spent a year working with the Dengue Research Group at St Luke’s Medical Center in Quezon City, Philippines, I moved to Salt Lake City, Utah.</description>
     </item>
-    
     <item>
       <title>About Lindsay Mendyka</title>
-      <link>https://www.kennethchenlab.com/members/lmendyka-bio/</link>
+      <link>http://localhost:1313/members/lmendyka-bio/</link>
       <pubDate>Wed, 25 Mar 2020 10:57:02 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/members/lmendyka-bio/</guid>
+      <guid>http://localhost:1313/members/lmendyka-bio/</guid>
       <description>Research Background I started working in biomedical research in Spring 2014 at UT Southwestern Medical Center. I became very fluent in animal breeding, handling, and dosing techniques. I translated this experience to pediatric cancer research and produce animal models to better understand DICER1 Syndrome. I thoroughly enjoy learning new techniques and procedures and applying them to our research, which is my favorite thing to do while in the lab. I enjoy challenges and teaching my newly acquired knowledge and skills to other lab members.</description>
     </item>
-    
     <item>
       <title>About Peter Schoettler</title>
-      <link>https://www.kennethchenlab.com/members/pschoettler-bio/</link>
+      <link>http://localhost:1313/members/pschoettler-bio/</link>
       <pubDate>Tue, 24 Mar 2020 14:28:20 -0500</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/members/pschoettler-bio/</guid>
+      <guid>http://localhost:1313/members/pschoettler-bio/</guid>
       <description>Research Background I&amp;rsquo;ve been involved with researching Pleuropulmonary Blastoma (PPB), a rare Pediatric lung cancer, and DICER1 Syndrome, a cancer predisposition syndrome, since 2006. My sister and brother were the 3rd and 10th cases of PPB, and a DICER1 mutation runs through my family, which has inspired my career trajectory and research focus. In 2006, the genetic cause of PPB was still unknown, but now we know that mutations in the microRNA processing enzyme, DICER1, causes a wide variety of tumors within DICER1 Syndrome.</description>
     </item>
-    
     <item>
       <title>Welcome, Lane!</title>
-      <link>https://www.kennethchenlab.com/news/welcome-lane/</link>
+      <link>http://localhost:1313/news/welcome-lane/</link>
       <pubDate>Wed, 27 Nov 2019 11:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/welcome-lane/</guid>
-      <description>The lab continues to grow!
-Just in time for the holidays, we&amp;rsquo;re excited that Lane Beeman has agreed to join us as a research technician. She brings years of experience working with mice (and fish), and she makes a smooth transition to stay within the Amatruda lab family!</description>
+      <guid>http://localhost:1313/news/welcome-lane/</guid>
+      <description>The lab continues to grow!&#xA;Just in time for the holidays, we&amp;rsquo;re excited that Lane Beeman has agreed to join us as a research technician. She brings years of experience working with mice (and fish), and she makes a smooth transition to stay within the Amatruda lab family!</description>
     </item>
-    
     <item>
       <title>Welcome!</title>
-      <link>https://www.kennethchenlab.com/news/welcome-peter/</link>
+      <link>http://localhost:1313/news/welcome-peter/</link>
       <pubDate>Fri, 09 Aug 2019 10:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/welcome-peter/</guid>
-      <description>Welcome to our newest member!
-We&amp;rsquo;re excited to welcome Peter Schoettler, a UT Southwestern Pediatric Hematology-Oncology fellow. He brings with him a long track record of working with the DICER1 syndrome community and will work on characterizing the biology and treatment of DICER1 syndrome tumors.</description>
+      <guid>http://localhost:1313/news/welcome-peter/</guid>
+      <description>Welcome to our newest member!&#xA;We&amp;rsquo;re excited to welcome Peter Schoettler, a UT Southwestern Pediatric Hematology-Oncology fellow. He brings with him a long track record of working with the DICER1 syndrome community and will work on characterizing the biology and treatment of DICER1 syndrome tumors.</description>
     </item>
-    
     <item>
       <title>Welcome!</title>
-      <link>https://www.kennethchenlab.com/news/welcome-patricia/</link>
+      <link>http://localhost:1313/news/welcome-patricia/</link>
       <pubDate>Wed, 19 Jun 2019 09:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/welcome-patricia/</guid>
+      <guid>http://localhost:1313/news/welcome-patricia/</guid>
       <description>Welcome to our newest member! Last week Patricia Tiburcio joined the lab as our first postdoctoral fellow. Patricia recently completed her Ph.D. at the University of Utah, where she studied IDH1 mutations in the laboratory of Dr. Eric Huang.</description>
     </item>
-    
     <item>
       <title>Postdoc opening!</title>
-      <link>https://www.kennethchenlab.com/news/postdoc/</link>
+      <link>http://localhost:1313/news/postdoc/</link>
       <pubDate>Thu, 07 Mar 2019 09:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/postdoc/</guid>
-      <description>It&amp;rsquo;s official! We&amp;rsquo;re ready to recruit our first postdoctoral fellow!
-We&amp;rsquo;re looking for a fearless scientist to join our group. If you or someone you know is interested in how mutations dysregulate genes to cause childhood cancer, please let us know!</description>
+      <guid>http://localhost:1313/news/postdoc/</guid>
+      <description>It&amp;rsquo;s official! We&amp;rsquo;re ready to recruit our first postdoctoral fellow!&#xA;We&amp;rsquo;re looking for a fearless scientist to join our group. If you or someone you know is interested in how mutations dysregulate genes to cause childhood cancer, please let us know!</description>
     </item>
-    
     <item>
       <title>New Website</title>
-      <link>https://www.kennethchenlab.com/news/a-new-year/</link>
+      <link>http://localhost:1313/news/a-new-year/</link>
       <pubDate>Thu, 28 Feb 2019 18:20:59 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/a-new-year/</guid>
-      <description>Welcome to the Chen lab website!
-We&amp;rsquo;re excited to get working on getting the lab started: buying equipment, recruiting people to join the team, and pushing back the boundaries of cancer science. Please enjoy the site and let us know if you have any comments or find any bugs! We hope to update this space regularly with lab events and announcements.</description>
+      <guid>http://localhost:1313/news/a-new-year/</guid>
+      <description>Welcome to the Chen lab website!&#xA;We&amp;rsquo;re excited to get working on getting the lab started: buying equipment, recruiting people to join the team, and pushing back the boundaries of cancer science. Please enjoy the site and let us know if you have any comments or find any bugs! We hope to update this space regularly with lab events and announcements.</description>
     </item>
-    
   </channel>
 </rss>

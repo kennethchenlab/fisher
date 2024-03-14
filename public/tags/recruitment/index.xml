@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>recruitment on Chen lab</title>
-    <link>https://www.kennethchenlab.com/tags/recruitment/</link>
-    <description>Recent content in recruitment on Chen lab</description>
+    <title>Recruitment on Chen lab</title>
+    <link>http://localhost:1313/tags/recruitment/</link>
+    <description>Recent content in Recruitment on Chen lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2019 11:17:30 -0600</lastBuildDate><atom:link href="https://www.kennethchenlab.com/tags/recruitment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Nov 2019 11:17:30 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/recruitment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome, Lane!</title>
-      <link>https://www.kennethchenlab.com/news/welcome-lane/</link>
+      <link>http://localhost:1313/news/welcome-lane/</link>
       <pubDate>Wed, 27 Nov 2019 11:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/welcome-lane/</guid>
-      <description>The lab continues to grow!
-Just in time for the holidays, we&amp;rsquo;re excited that Lane Beeman has agreed to join us as a research technician. She brings years of experience working with mice (and fish), and she makes a smooth transition to stay within the Amatruda lab family!</description>
+      <guid>http://localhost:1313/news/welcome-lane/</guid>
+      <description>The lab continues to grow!&#xA;Just in time for the holidays, we&amp;rsquo;re excited that Lane Beeman has agreed to join us as a research technician. She brings years of experience working with mice (and fish), and she makes a smooth transition to stay within the Amatruda lab family!</description>
     </item>
-    
     <item>
       <title>Welcome!</title>
-      <link>https://www.kennethchenlab.com/news/welcome-peter/</link>
+      <link>http://localhost:1313/news/welcome-peter/</link>
       <pubDate>Fri, 09 Aug 2019 10:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/welcome-peter/</guid>
-      <description>Welcome to our newest member!
-We&amp;rsquo;re excited to welcome Peter Schoettler, a UT Southwestern Pediatric Hematology-Oncology fellow. He brings with him a long track record of working with the DICER1 syndrome community and will work on characterizing the biology and treatment of DICER1 syndrome tumors.</description>
+      <guid>http://localhost:1313/news/welcome-peter/</guid>
+      <description>Welcome to our newest member!&#xA;We&amp;rsquo;re excited to welcome Peter Schoettler, a UT Southwestern Pediatric Hematology-Oncology fellow. He brings with him a long track record of working with the DICER1 syndrome community and will work on characterizing the biology and treatment of DICER1 syndrome tumors.</description>
     </item>
-    
     <item>
       <title>Welcome!</title>
-      <link>https://www.kennethchenlab.com/news/welcome-patricia/</link>
+      <link>http://localhost:1313/news/welcome-patricia/</link>
       <pubDate>Wed, 19 Jun 2019 09:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/welcome-patricia/</guid>
+      <guid>http://localhost:1313/news/welcome-patricia/</guid>
       <description>Welcome to our newest member! Last week Patricia Tiburcio joined the lab as our first postdoctoral fellow. Patricia recently completed her Ph.D. at the University of Utah, where she studied IDH1 mutations in the laboratory of Dr. Eric Huang.</description>
     </item>
-    
     <item>
       <title>Postdoc opening!</title>
-      <link>https://www.kennethchenlab.com/news/postdoc/</link>
+      <link>http://localhost:1313/news/postdoc/</link>
       <pubDate>Thu, 07 Mar 2019 09:17:30 -0600</pubDate>
-      
-      <guid>https://www.kennethchenlab.com/news/postdoc/</guid>
-      <description>It&amp;rsquo;s official! We&amp;rsquo;re ready to recruit our first postdoctoral fellow!
-We&amp;rsquo;re looking for a fearless scientist to join our group. If you or someone you know is interested in how mutations dysregulate genes to cause childhood cancer, please let us know!</description>
+      <guid>http://localhost:1313/news/postdoc/</guid>
+      <description>It&amp;rsquo;s official! We&amp;rsquo;re ready to recruit our first postdoctoral fellow!&#xA;We&amp;rsquo;re looking for a fearless scientist to join our group. If you or someone you know is interested in how mutations dysregulate genes to cause childhood cancer, please let us know!</description>
     </item>
-    
   </channel>
 </rss>
