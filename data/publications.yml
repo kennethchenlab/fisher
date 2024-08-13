@@ -4,37 +4,59 @@ subtitle:    Here are some of our latest works.
 image   :
 pub     :
 
-  - reference: 	"Fraire CR, Mallinger PR, Hatton JN, Kim J, Dickens DS, Argenta PA, Milanovich S, Hartshorne T, Carey DJ, Haley JS, Urban G, Lee J, Hill DA, Stewart DR, Schultz KAP, Chen KS. Intronic germline DICER1 variants in patients with Sertoli-Leydig cell tumor. JCO Precis Oncol. 2023; 7: e2300189."
-    doi: 10.1200/PO.23.00189
+  - reference: 	"Tiburcio PDB, Chen K, Xu L, Chen KS. Actinomycin D and bortezomib disrupt protein homeostasis in Wilms tumor. bioRxiv [Preprint]. June 13, 2024."
+    doi: 10.1101/2024.06.11.598518
+    pubmed:  
+    pubmedcentral: 
+    biorxiv:
+  
+  - reference: 	"Schoettler PJ, Smith CC, Nishitani M, Harris AK, Nelson AT, Watson DA, Kamihara J, Mullen EA, Hill DA, Messinger YH, Fair DB, Kumar KA, Dehner LP, Ash S, Chen KS, Schultz KAP. Anaplastic Sarcoma of the Kidney (DICER1-Sarcoma of the Kidney): A Report from the International Pleuropulmonary Blastoma/ DICER1 Registry. Pediatr Blood Cancer. 2024; e31090. "
+    doi: 10.1002/pbc.31090
+    pubmed:  38807260
+    pubmedcentral: 
+    biorxiv:
+    
+  - reference: 	"Fraire CR, Desai K, Obalapuram UA, Mendyka LK, Rajaram V, Sebastian T, Wang Y, Onel K, Lee J, Chen KS. An imbalance between proliferation and differentiation underlies the development of microRNA-defective pineoblastoma. bioRxiv [Preprint]. April 25, 2024. "
+    doi: 10.1101/2024.04.23.590638
     pubmed:  
     pubmedcentral: 
     biorxiv:
 
+  - reference: 	"Tiburcio PDB, Desai K, Kim J, Zhou Q, Guo L, Xiao X, Zhou L, Yuksel A, Catchpoole DR, Amatruda JF, Xu L, Chen KS. DROSHA regulates mesenchymal gene expression in Wilms tumor. Mol Cancer Res. 2024 Apr 22. "
+    doi: 10.1158/1541-7786.MCR-23-0930
+    pubmed:  38647377
+    pubmedcentral: 
+    biorxiv:
+
+  - reference: 	"Fraire CR, Mallinger PR, Hatton JN, Kim J, Dickens DS, Argenta PA, Milanovich S, Hartshorne T, Carey DJ, Haley JS, Urban G, Lee J, Hill DA, Stewart DR, Schultz KAP, Chen KS. Intronic germline DICER1 variants in patients with Sertoli-Leydig cell tumor. JCO Precis Oncol. 2023; 7: e2300189."
+    doi: 10.1200/PO.23.00189
+    pubmed:  37883719
+    pubmedcentral: PMC10860953
+    biorxiv:
 
   - reference: 	"Schultz KAP, Chintagumpala M, Piao J, Chen KS, Shah R, Gartrell RD, Christison-Lagay E, Pashnakar F, Berry JL, O'Neill AF, Vasta LM, Flynn A, Mitchell SG, Seynnaeve BKN, Rosenblum J, Potter SL, Kamihara J, Rodriguez-Galindo C, Hawkins DS, Laetsch TW. Rare tumors: Opportunities and challenges from the Children's Oncology Group perspective. EJC Paediatric Oncol. 2023 Dec; 2: 100024."
     doi: 10.1016/j.ejcped.2023.100024. 
-    pubmed:  
-    pubmedcentral: 
+    pubmed:  37829670
+    pubmedcentral: PMC10566015
     biorxiv:
 
-  - reference:  Medvedev KE, Schaeffer RD, Chen KS, Grishin NV. Pan-cancer structurome reveals overrepresentation of beta sandwiches and underrepresentation of alpha helical domains. Sci Rep. 2023 13:11988.
-    doi: 10.1038/s41598-023-39273-5
-    pubmed:  
-    pubmedcentral: 
-    biorxiv:
+  # - reference:  Medvedev KE, Schaeffer RD, Chen KS, Grishin NV. Pan-cancer structurome reveals overrepresentation of beta sandwiches and underrepresentation of alpha helical domains. Sci Rep. 2023 13:11988.
+  #   doi: 10.1038/s41598-023-39273-5
+  #   pubmed:  37491511
+  #   pubmedcentral: PMC10368619
+  #   biorxiv:
 
   - reference:  "Schultz KAP, Chintagumpala M, Piao J, Chen KS, Gartrell R, Christison-Lagay E, Berry JL, Shah R, Laetsch TW. Children's Oncology Group's 2023 Blueprint for Research: Rare Tumors. Pediatr Blood Cancer. 2023; e30574."
     doi: 10.1002/pbc.30574. 
     pubmed:  
     pubmedcentral: 
     biorxiv:
-    
-  - reference: 	Xu L*, Pierce JL*, Sanchez A*, Chen KS, Shukla AA, Fustino NJ, Stuart S, Bagrodia A, Xiao X, Guo L, Krailo MD, Shaikh F, Billmire D, Pashankar F, Bestrashniy J, Oosterhuis JW, Gillis AJM, Xie Y, Teot L, Mora J, Poynter JN, Rakheja D, Looijenga LHJ, Draper DW, Frazier AL, Amatruda JF. Integrated genomic analysis reveals aberrations in WNT signaling in germ cell tumors of childhood and adolescence. Nat Commun. 2023;14:2636.
-    doi: 10.1038/s41467-023-38378-9
-    pubmed:  37149691
-    pubmedcentral: PMC10164134
-    biorxiv:
-
+  # 
+  # - reference: 	"Xu L*, Pierce JL*, Sanchez A*, Chen KS, Shukla AA, Fustino NJ, Stuart S, Bagrodia A, Xiao X, Guo L, Krailo MD, Shaikh F, Billmire D, Pashankar F, Bestrashniy J, Oosterhuis JW, Gillis AJM, Xie Y, Teot L, Mora J, Poynter JN, Rakheja D, Looijenga LHJ, Draper DW, Frazier AL, Amatruda JF. Integrated genomic analysis reveals aberrations in WNT signaling in germ cell tumors of childhood and adolescence. Nat Commun. 2023;14:2636."
+  #   doi: 10.1038/s41467-023-38378-9
+  #   pubmed:  37149691
+  #   pubmedcentral: PMC10164134
+  #   biorxiv:
 
   - reference:	Aguayo JS, Shelton JM, Tan W, Rakheja D, Cai C, Shalaby A, Lee J, Iannaccone ST, Xu L, Chen KS, Burns DK, Zheng Y. Ectopic PLAG1 induces muscular dystrophy in the mouse. Biochem Biophys Res Commun. 2023 Jul 12;665:159-168.
     doi: 10.1016/j.bbrc.2023.05.006
@@ -42,17 +64,17 @@ pub     :
     pubmedcentral: 
     biorxiv:
 
-  - reference: Hatton JN, Frone MN, Cox HC, Crowley SB, Hiraki S, Yokoyama NN, Abul-Husn NS, Amatruda JF, Anderson MJ, Bofill-De Ros X, Carr AG, Chao EC, Chen KS, Gu S, Higgs C, Machado J, Ritter D, Schultz KAP, Soper ER, Wu MK, Mester JL, Kim J, Foulkes WD, Witkowski L, Stewart DR. Specifications of the ACMG/AMP variant classification guidelines for germline DICER1 variant curation. Human Mutation. 2023.	
-    doi: 10.1155/2023/9537832
-    pubmed:  
-    pubmedcentral: 
-    biorxiv:
+  # - reference: Hatton JN, Frone MN, Cox HC, Crowley SB, Hiraki S, Yokoyama NN, Abul-Husn NS, Amatruda JF, Anderson MJ, Bofill-De Ros X, Carr AG, Chao EC, Chen KS, Gu S, Higgs C, Machado J, Ritter D, Schultz KAP, Soper ER, Wu MK, Mester JL, Kim J, Foulkes WD, Witkowski L, Stewart DR. Specifications of the ACMG/AMP variant classification guidelines for germline DICER1 variant curation. Human Mutation. 2023.	
+  #   doi: 10.1155/2023/9537832
+  #   pubmed:  
+  #   pubmedcentral: 
+  #   biorxiv:
 
-  - reference: 	Medvedev KE, Savelyeva AV, Chen KS, Bagrodia A, Jia L, Grishin NV. Integrated molecular analysis reveals two distinct subtypes of pure seminoma of the testis. Cancer Inform. 2022. 
-    doi: 10.1177/11769351221132634
-    pubmed:  36330202
-    pubmedcentral: PMC9623390
-    biorxiv:
+  # - reference: 	Medvedev KE, Savelyeva AV, Chen KS, Bagrodia A, Jia L, Grishin NV. Integrated molecular analysis reveals two distinct subtypes of pure seminoma of the testis. Cancer Inform. 2022. 
+  #   doi: 10.1177/11769351221132634
+  #   pubmed:  36330202
+  #   pubmedcentral: PMC9623390
+  #   biorxiv:
     
   - reference: "Willis KR, Sathe AA, Xing C, Chen KS, Artunduaga M, Koduru P, Park JY, Rakheja D. Extra-renal anaplastic Wilms tumor: Whole exome profiling and characterization of a primary cell line. J Pediatr Hemat Oncol. 2022 Feb 4."
     doi: 10.1097/MPH.0000000000002413
@@ -60,37 +82,37 @@ pub     :
     pubmedcentral: PMC9035038
     biorxiv: 
 
-  - reference: Chen KS, Stroup EK, Budhipramono A, Rakheja D, Nichols-Vinueza D, Xu L, Stuart SH, Shukla AA, Fraire C, Mendell JT, Amatruda JF. Mutations in microRNA processing genes in Wilms tumors upregulate <i>IGF2</i> through de-repression of <i>PLAG1</i>. Genes Dev. August 1, 2018 32:996-1007.
-    doi: 10.1101/gad.313783.118
-    pubmed:  30026293
-    pubmedcentral: PMC6075147
-    biorxiv:
+  # - reference: Chen KS, Stroup EK, Budhipramono A, Rakheja D, Nichols-Vinueza D, Xu L, Stuart SH, Shukla AA, Fraire C, Mendell JT, Amatruda JF. Mutations in microRNA processing genes in Wilms tumors upregulate <i>IGF2</i> through de-repression of <i>PLAG1</i>. Genes Dev. August 1, 2018 32:996-1007.
+  #   doi: 10.1101/gad.313783.118
+  #   pubmed:  30026293
+  #   pubmedcentral: PMC6075147
+  #   biorxiv:
 
-  - reference: Stroup EK, Yeu Y, Budhipramono A, Hwang TH, Rakheja D, Erdreich-Epstein A, Laetsch TW, Amatruda JF, Chen KS. miR-16 suppresses growth of rhabdoid tumor cells. Cancer Reports. 2018.
-    doi: 10.1002/cnr2.1110
-    pubmed:
+  # - reference: Stroup EK, Yeu Y, Budhipramono A, Hwang TH, Rakheja D, Erdreich-Epstein A, Laetsch TW, Amatruda JF, Chen KS. miR-16 suppresses growth of rhabdoid tumor cells. Cancer Reports. 2018.
+  #   doi: 10.1002/cnr2.1110
+  #   pubmed:
 
-  - reference: Chen KS*, Stuart SH*, Stroup EK, Shukla AS, Wang J, Rajaram V, Vujanic G, Slone T, Rakheja D, Amatruda JF. Distinct DICER1 hotspot mutations identify bilateral tumors as separate events. JCO Precision Oncology. 2018.
-    doi: 10.1200/PO.17.00113
-    pubmed: 31893257
-    pubmedcentral: PMC6938390
+  # - reference: Chen KS*, Stuart SH*, Stroup EK, Shukla AS, Wang J, Rajaram V, Vujanic G, Slone T, Rakheja D, Amatruda JF. Distinct DICER1 hotspot mutations identify bilateral tumors as separate events. JCO Precision Oncology. 2018.
+  #   doi: 10.1200/PO.17.00113
+  #   pubmed: 31893257
+  #   pubmedcentral: PMC6938390
 
-  - reference: Chen KS*, Fustino NJ*, Shukla AA, Stroup EK, Budhipramono A, Ateek C, Stuart S, Yamaguchi K, Kapur P, Frazier AL, Lum L, Looijenga LHJ, Laetsch TW, Rakheja D, Amatruda JF. EGF receptor and mTORC1 are novel therapeutic targets in nonseminomatous germ cell tumors. Mol Cancer Ther. 2018 May; 17(5):1079-1089.
-    doi: 10.1158/1535-7163.MCT-17-0137
-    pubmed: 29483210
-    pubmedcentral: PMC5932259
+  # - reference: Chen KS*, Fustino NJ*, Shukla AA, Stroup EK, Budhipramono A, Ateek C, Stuart S, Yamaguchi K, Kapur P, Frazier AL, Lum L, Looijenga LHJ, Laetsch TW, Rakheja D, Amatruda JF. EGF receptor and mTORC1 are novel therapeutic targets in nonseminomatous germ cell tumors. Mol Cancer Ther. 2018 May; 17(5):1079-1089.
+  #   doi: 10.1158/1535-7163.MCT-17-0137
+  #   pubmed: 29483210
+  #   pubmedcentral: PMC5932259
 
-  - reference: Chen KS*, Kwon WS*, Kim J*, Heo SJ, Kim HS, Kim HK, Kim SH, Lee WS, Chung HC, Rha SY, Hwang TH. A novel <i>TP53-KPNA3</i> translocation defines a de novo treatment-resistant clone in osteosarcoma. Cold Spring Harb Mol Case Stud. 2016 Sep;2(5):a000992.
-    doi: 10.1101/mcs.a000992
-    pubmed: 27626065
-    pubmedcentral: PMC5002927
+  # - reference: Chen KS*, Kwon WS*, Kim J*, Heo SJ, Kim HS, Kim HK, Kim SH, Lee WS, Chung HC, Rha SY, Hwang TH. A novel <i>TP53-KPNA3</i> translocation defines a de novo treatment-resistant clone in osteosarcoma. Cold Spring Harb Mol Case Stud. 2016 Sep;2(5):a000992.
+  #   doi: 10.1101/mcs.a000992
+  #   pubmed: 27626065
+  #   pubmedcentral: PMC5002927
 
-  - reference: Wylie A, Jones AE, D’Brot A, Lu W-J, Kurtz Pm, Moran JVm, Rakheja D, Chen KS, Amatruda JF and Abrams JM. <i>p53</i> Genes Act to Restrain Mobile Elements. Genes Dev. 2016 Jan 1;30(1):64-77.
-    doi: 10.1101/gad.266098.115
-    pubmed: 26701264
-    pubmedcentral: PMC4701979
+  # - reference: Wylie A, Jones AE, D’Brot A, Lu W-J, Kurtz Pm, Moran JVm, Rakheja D, Chen KS, Amatruda JF and Abrams JM. <i>p53</i> Genes Act to Restrain Mobile Elements. Genes Dev. 2016 Jan 1;30(1):64-77.
+  #   doi: 10.1101/gad.266098.115
+  #   pubmed: 26701264
+  #   pubmedcentral: PMC4701979
 
-  - reference: Rakheja D*, Chen KS*, Liu Y*, Shukla AA, Hildebrand S, Schmid V, Sun X, Feng X, Chang TC, Karandikar NJ, Malter JS, Mendell JT, Amatruda JF.  Somatic mutations in <i>DROSHA</i> and <i>DICER1</i> impair microRNA biogenesis through distinct mechanisms in Wilms tumors.  Nat Commun.  2014 Sep 5;2:4802.
-    doi: 10.1038/ncomms5802
-    pubmed: 25190313
-    pubmedcentral: PMC4159681
+  # - reference: Rakheja D*, Chen KS*, Liu Y*, Shukla AA, Hildebrand S, Schmid V, Sun X, Feng X, Chang TC, Karandikar NJ, Malter JS, Mendell JT, Amatruda JF.  Somatic mutations in <i>DROSHA</i> and <i>DICER1</i> impair microRNA biogenesis through distinct mechanisms in Wilms tumors.  Nat Commun.  2014 Sep 5;2:4802.
+  #   doi: 10.1038/ncomms5802
+  #   pubmed: 25190313
+  #   pubmedcentral: PMC4159681
