@@ -18,12 +18,12 @@ members  :
     twitter     : pdbtiburcio
     bio         : members/ptiburcio-bio
 
-  - name        : Claudette Fraire
-    image       : images/team/claudette-fraire.jpg
-    designation : Graduate Student
-    description :
-    email       : Claudette.Fraire@utsw.edu
-    bio         : members/cfraire-bio
+  # - name        : Claudette Fraire
+  #   image       : images/team/claudette-fraire.jpg
+  #   designation : Graduate Student
+  #   description :
+  #   email       : Claudette.Fraire@utsw.edu
+  #   bio         : members/cfraire-bio
 
   - name        : Jana Hadas
     image       : images/team/jana-hadas.jpg

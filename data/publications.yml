@@ -17,7 +17,7 @@ pub     :
     biorxiv:
     
   - reference: 	"Fraire CR, Desai K, Obalapuram UA, Mendyka LK, Rajaram V, Sebastian T, Wang Y, Onel K, Lee J, Chen KS. An imbalance between proliferation and differentiation underlies the development of microRNA-defective pineoblastoma. bioRxiv [Preprint]. April 25, 2024. "
-    doi: 10.1101/2024.04.23.590638
+    doi: 10.1101/2024.04.23.590638v3
     pubmed:  
     pubmedcentral: 
     biorxiv:
@@ -35,7 +35,7 @@ pub     :
     biorxiv:
 
   - reference: 	"Schultz KAP, Chintagumpala M, Piao J, Chen KS, Shah R, Gartrell RD, Christison-Lagay E, Pashnakar F, Berry JL, O'Neill AF, Vasta LM, Flynn A, Mitchell SG, Seynnaeve BKN, Rosenblum J, Potter SL, Kamihara J, Rodriguez-Galindo C, Hawkins DS, Laetsch TW. Rare tumors: Opportunities and challenges from the Children's Oncology Group perspective. EJC Paediatric Oncol. 2023 Dec; 2: 100024."
-    doi: 10.1016/j.ejcped.2023.100024. 
+    doi: 10.1016/j.ejcped.2023.100024
     pubmed:  37829670
     pubmedcentral: PMC10566015
     biorxiv:
@@ -76,11 +76,11 @@ pub     :
   #   pubmedcentral: PMC9623390
   #   biorxiv:
     
-  - reference: "Willis KR, Sathe AA, Xing C, Chen KS, Artunduaga M, Koduru P, Park JY, Rakheja D. Extra-renal anaplastic Wilms tumor: Whole exome profiling and characterization of a primary cell line. J Pediatr Hemat Oncol. 2022 Feb 4."
-    doi: 10.1097/MPH.0000000000002413
-    pubmed:  35129140
-    pubmedcentral: PMC9035038
-    biorxiv: 
+  # - reference: "Willis KR, Sathe AA, Xing C, Chen KS, Artunduaga M, Koduru P, Park JY, Rakheja D. Extra-renal anaplastic Wilms tumor: Whole exome profiling and characterization of a primary cell line. J Pediatr Hemat Oncol. 2022 Feb 4."
+  #   doi: 10.1097/MPH.0000000000002413
+  #   pubmed:  35129140
+  #   pubmedcentral: PMC9035038
+  #   biorxiv: 
 
   # - reference: Chen KS, Stroup EK, Budhipramono A, Rakheja D, Nichols-Vinueza D, Xu L, Stuart SH, Shukla AA, Fraire C, Mendell JT, Amatruda JF. Mutations in microRNA processing genes in Wilms tumors upregulate <i>IGF2</i> through de-repression of <i>PLAG1</i>. Genes Dev. August 1, 2018 32:996-1007.
   #   doi: 10.1101/gad.313783.118

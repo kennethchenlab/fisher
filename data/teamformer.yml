@@ -57,7 +57,7 @@ members  :
   - name        : Peter Schoettler, MD
     image       : images/team/peter-schoettler.jpg
     # designation : Pediatric Hematology-Oncology Fellow
-    description : Bronson Health, Kalamazoo, MI
+    description : Mayo Clinic, Rochester, MN
     # email       : Peter.Schoettler@utsw.edu
     # bio         : members/pschoettler-bio
 
@@ -68,10 +68,10 @@ members  :
   #   email       : Lane.Beeman@utsw.edu
   #   bio         : members/lbeeman-bio
 
-  - name        : Taylor Hartshorne
-    image       : images/team/taylor-hartshorne-646.png
+  # - name        : Taylor Hartshorne
+    # image       : images/team/taylor-hartshorne-646.png
     # designation : Research Technician
-    description : UT Southwestern, Dallas, TX
+    # description : UT Southwestern, Dallas, TX
     # email       : Taylor.Hartshorne@utsw.edu
     # bio         : members/thartshorne-bio
 
