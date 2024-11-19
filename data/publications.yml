@@ -34,11 +34,11 @@ pub     :
     pubmedcentral: PMC10860953
     biorxiv:
 
-  - reference: 	"Schultz KAP, Chintagumpala M, Piao J, Chen KS, Shah R, Gartrell RD, Christison-Lagay E, Pashnakar F, Berry JL, O'Neill AF, Vasta LM, Flynn A, Mitchell SG, Seynnaeve BKN, Rosenblum J, Potter SL, Kamihara J, Rodriguez-Galindo C, Hawkins DS, Laetsch TW. Rare tumors: Opportunities and challenges from the Children's Oncology Group perspective. EJC Paediatric Oncol. 2023 Dec; 2: 100024."
-    doi: 10.1016/j.ejcped.2023.100024
-    pubmed:  37829670
-    pubmedcentral: PMC10566015
-    biorxiv:
+  # - reference: 	"Schultz KAP, Chintagumpala M, Piao J, Chen KS, Shah R, Gartrell RD, Christison-Lagay E, Pashnakar F, Berry JL, O'Neill AF, Vasta LM, Flynn A, Mitchell SG, Seynnaeve BKN, Rosenblum J, Potter SL, Kamihara J, Rodriguez-Galindo C, Hawkins DS, Laetsch TW. Rare tumors: Opportunities and challenges from the Children's Oncology Group perspective. EJC Paediatric Oncol. 2023 Dec; 2: 100024."
+  #   doi: 10.1016/j.ejcped.2023.100024
+  #   pubmed:  37829670
+  #   pubmedcentral: PMC10566015
+  #   biorxiv:
 
   # - reference:  Medvedev KE, Schaeffer RD, Chen KS, Grishin NV. Pan-cancer structurome reveals overrepresentation of beta sandwiches and underrepresentation of alpha helical domains. Sci Rep. 2023 13:11988.
   #   doi: 10.1038/s41598-023-39273-5
@@ -46,11 +46,11 @@ pub     :
   #   pubmedcentral: PMC10368619
   #   biorxiv:
 
-  - reference:  "Schultz KAP, Chintagumpala M, Piao J, Chen KS, Gartrell R, Christison-Lagay E, Berry JL, Shah R, Laetsch TW. Children's Oncology Group's 2023 Blueprint for Research: Rare Tumors. Pediatr Blood Cancer. 2023; e30574."
-    doi: 10.1002/pbc.30574. 
-    pubmed:  
-    pubmedcentral: 
-    biorxiv:
+  # - reference:  "Schultz KAP, Chintagumpala M, Piao J, Chen KS, Gartrell R, Christison-Lagay E, Berry JL, Shah R, Laetsch TW. Children's Oncology Group's 2023 Blueprint for Research: Rare Tumors. Pediatr Blood Cancer. 2023; e30574."
+  #  doi: 10.1002/pbc.30574. 
+  #  pubmed:  
+  #  pubmedcentral: 
+  #  biorxiv:
   # 
   # - reference: 	"Xu L*, Pierce JL*, Sanchez A*, Chen KS, Shukla AA, Fustino NJ, Stuart S, Bagrodia A, Xiao X, Guo L, Krailo MD, Shaikh F, Billmire D, Pashankar F, Bestrashniy J, Oosterhuis JW, Gillis AJM, Xie Y, Teot L, Mora J, Poynter JN, Rakheja D, Looijenga LHJ, Draper DW, Frazier AL, Amatruda JF. Integrated genomic analysis reveals aberrations in WNT signaling in germ cell tumors of childhood and adolescence. Nat Commun. 2023;14:2636."
   #   doi: 10.1038/s41467-023-38378-9

@@ -61,7 +61,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "OUR RESEARCH"
-        content = "The messages that tell cells which proteins to make are called messenger RNA, or mRNA. Production and degradation of mRNA is usually tightly regulated, but in some childhood cancers, this regulation is lost. We study how dysregulation of mRNA production and degradation leads to childhood cancer, and seek ways to exploit this  dysregulation as a therapeutic vulnerability. <br /><br /> Click <a href=/about>here</a> to learn more."
+        content = "The messages that tell our cells which proteins to make are called messenger RNA, or mRNA. Making and degrading mRNA is tightly regulated, but in some childhood cancers, this regulation is lost. We study how broken mRNA degradation leads to childhood cancer, and we seek ways to exploit this as a therapeutic vulnerability. <br /><br /> Click <a href=/about>here</a> to learn more."
         image   = "images/pipet-louis-reed-747388-unsplash.jpg"
 
     # Call to Action
