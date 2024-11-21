@@ -2,13 +2,15 @@ enable  : true
 contactFormTitle    : CONTACT US
 contactFormSubtitle : >
   Questions or comments? Interested in joining the team? We're always actively recruiting talented, highly motivated individuals to join our team. <br><br>
-  If you're interested, please contact us at <a href="mailto:kenneth.chen@utsw.edu">kenneth.chen@utsw.edu</a>. We'd love to hear from you! 
+  If you're interested, please contact us at <a href="mailto:kenneth.chen@utsw.edu">kenneth.chen@utsw.edu</a>. We'd love to hear from you! <br><br>
+  Find our plasmids at
+  <a href="https://www.addgene.org/Kenneth_Chen/" style="text-decoration: none; color: #585858; font-size: 16px; font-family: Arial,Helvetica,sans-serif;" target="_blank" rel="noopener noreferrer"><img style="margin-right: 0px;" width="125" height="24" alt="Addgene" src="https://media.addgene.org/cms/filer_public/ea/82/ea826144-fce2-4c13-99e9-940af7e2853b/logo-addgene.png"></a>
 mapTitle    : FIND US
 mapSubtitle : >
   We are in the Division of <a href="https://www.utsouthwestern.edu/education/medical-school/departments/pediatrics/divisions/hematology-oncology/" target="_blank">Pediatric Hematology-Oncology</a>,
   in the Department of <a href="https://www.utsouthwestern.edu/education/medical-school/departments/pediatrics/" target="_blank">Pediatrics</a> at <a href="https://www.utsouthwestern.edu/" target="_blank">UT Southwestern</a>.
-officeAddress1 : 5323 Harry Hines Blvd., Dallas, TX 75390
-officeAddress2 :
+# officeAddress1 : 5323 Harry Hines Blvd., Dallas, TX 75390
+# officeAddress2 :
 mail1 : kenneth.chen@utsw.edu
 mail2 :
 phone1: 214-648-9043

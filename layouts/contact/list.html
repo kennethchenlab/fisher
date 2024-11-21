@@ -52,13 +52,13 @@
             </div>
         </div>
         <div class="row address-details">
-            <div class="col-md-3">
+            {{/*  <div class="col-md-3">
                 <div class="address wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
                     <i class="ion-ios-location-outline"></i>
                     {{ with .Site.Data.contact.officeAddress1 }}<h5>{{ . }}</h5>{{ end }}
                 </div>
-            </div>
-            <div class="col-md-3">
+            </div>  */}}
+            <div class="col-md-4">
                 <div class="address wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".5s">
                     {{ with .Site.Data.contact.twitter1 }}<a href="https://twitter.com/{{ . }}" target="_blank">
                         <i class="ion-social-twitter"></i>
@@ -66,14 +66,14 @@
                     </a>{{ end }}
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <div class="email wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
                     <i class="ion-ios-email-outline"></i>
                     <p>{{ with .Site.Data.contact.mail1 }} <a href="mailto:{{ . }}">{{ . }}</a>{{ end }}
                         <br>{{ with .Site.Data.contact.mail2 }} <a href="mailto:{{ . }}">{{ . }}</a>{{ end }}</p>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <div class="phone wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".9s">
                     <i class="ion-ios-telephone-outline"></i>
                     <p>{{ with .Site.Data.contact.phone1 }}{{ . }}{{ end }}
