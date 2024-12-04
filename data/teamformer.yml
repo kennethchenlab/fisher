@@ -17,13 +17,6 @@ members  :
   #   twitter     : pdbtiburcio
   #   bio         : members/ptiburcio-bio
 
-  # - name        : Claudette Fraire
-  #   image       : images/team/claudette-fraire.jpg
-  #   designation : Graduate Student
-  #   description :
-  #   email       : Claudette.Fraire@utsw.edu
-  #   bio         : members/cfraire-bio
-
   # - name        : Jana Hadas
   #   image       : images/team/jana-hadas.jpg
   #   designation : Research Technician
@@ -60,6 +53,13 @@ members  :
     description : Mayo Clinic, Rochester, MN
     # email       : Peter.Schoettler@utsw.edu
     # bio         : members/pschoettler-bio
+
+  # - name        : Claudette Fraire
+  #   image       : images/team/claudette-fraire.jpg
+  #   # designation : Graduate Student
+  #   description : Cook Children's, Fort Worth, TX
+  #   # email       : Claudette.Fraire@utsw.edu
+  #   # bio         : members/cfraire-bio
 
   # - name        : Lane Beeman
   #   image       : images/team/lane-beeman.jpg
