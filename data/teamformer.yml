@@ -54,12 +54,12 @@ members  :
     # email       : Peter.Schoettler@utsw.edu
     # bio         : members/pschoettler-bio
 
-  # - name        : Claudette Fraire
-  #   image       : images/team/claudette-fraire.jpg
-  #   # designation : Graduate Student
-  #   description : Cook Children's, Fort Worth, TX
-  #   # email       : Claudette.Fraire@utsw.edu
-  #   # bio         : members/cfraire-bio
+  - name        : Claudette Fraire
+    image       : images/team/claudette-fraire.jpg
+    # designation : Graduate Student
+    description : Cook Children's, Fort Worth, TX
+    # email       : Claudette.Fraire@utsw.edu
+    # bio         : members/cfraire-bio
 
   # - name        : Lane Beeman
   #   image       : images/team/lane-beeman.jpg

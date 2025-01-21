@@ -33,12 +33,18 @@ members  :
     bio         : members/jhadas-bio
 
   - name        : Chelcea Zamora
-    image       : images/team/czamora.jpg
+    image       : images/team/czamora-646.jpg
     designation : Research Technician
     description :
     email       : Chelcea.Zamora@utsw.edu
     bio         : members/czamora-bio
 
+  - name        : Prerna Kulshrestha
+    image       : images/team/pkulshrestha.jpg
+    designation : Postdoctoral Fellow
+    description :
+    email       : Prerna.Kulshrestha@utsw.edu
+    bio         : members/pkulshrestha-bio
 
   # - name        : Bendu Konneh
   #   image       : images/team/bendu-konneh.jpg

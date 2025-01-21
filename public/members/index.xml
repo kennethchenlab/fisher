@@ -6,8 +6,15 @@
     <description>Recent content in Members on Chen lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jan 2023 10:57:02 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 05:01:06 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/members/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prerna Kulshrestha</title>
+      <link>http://localhost:1313/members/pkulshrestha-bio/</link>
+      <pubDate>Tue, 21 Jan 2025 05:01:06 -0500</pubDate>
+      <guid>http://localhost:1313/members/pkulshrestha-bio/</guid>
+      <description>Research Background My journey in research began during my master’s degree dissertation, where I studied diseases mechanism of hypoglycemia and its treatment strategy. Driven by a passion for research, I joined the L.V. Prasad Eye Institute, India, for my PhD. There, I focused on investigating the role of microRNAs, tiny RNA molecules that regulate gene expression, in uveitis, an inflammatory eye disease.&#xA;For my postdoctoral training, I joined Dr. Chen&amp;rsquo;s laboratory to investigate the gene expression driven by DROSHA mutations, which results in Wilms tumor in pediatric population.</description>
+    </item>
     <item>
       <title>About Jana Hadas</title>
       <link>http://localhost:1313/members/jhadas-bio/</link>
