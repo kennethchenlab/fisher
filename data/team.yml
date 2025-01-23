@@ -46,6 +46,13 @@ members  :
     email       : Prerna.Kulshrestha@utsw.edu
     bio         : members/pkulshrestha-bio
 
+  - name        : Indumathy Jagadeeswaran
+    image       : images/team/indu-jagadeeswaran-646.jpg
+    designation : Research Scientist
+    description :
+    email       : Indumathy.Jagadeeswaran@utsw.edu
+    bio         : members/ijagadeeswaran-bio
+
   # - name        : Bendu Konneh
   #   image       : images/team/bendu-konneh.jpg
   #   designation : Research Technician

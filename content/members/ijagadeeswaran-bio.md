@@ -1,0 +1,25 @@
+---
+title: "Indumathy Jagadeeswaran"
+date: 2025-01-21T05:01:06-05:00
+type: post
+author: Indumathy Jagadeeswaran
+tags: ["bios"]
+image: images/team/indu-jagadeeswaran-park.jpeg
+twitter:
+  card: "summary"
+  site: "@kennethschen"
+  title: "About Indumathy Jagadeeswaran"
+  description: "Indumathy Jagadeeswaran is a research scientist at UT Southwestern."
+  image: images/team/indu-jagadeeswaran-park.jpeg
+---
+
+Research Background
+-------------------
+
+I have always been fascinated by the complexities of biology, especially the self-healing mechanisms of the human body such as inflammation following injury. This sparked my interest in understanding the coordinated functions of the immune system. Driven by this early interest and a desire to explore clinical research, I pursued my Ph.D. in Medical Physiology at JIPMER, India. I have completed postdoctoral training in United States at several prestigious institutions, including UT Southwestern Medical Center in Dallas, Texas. Throughout my academics, I focused on exploring the molecular mechanisms underlying genetic disorders and identifying novel therapeutic targets. This year, I became a part of Dr. Chen’s laboratory to deepen my understanding of miRNA pathology in genetic disorders, investigating how miRNAs regulate gene expression and contribute to the development of cancer in pediatric population.  
+
+
+When I'm not in the lab
+-----------------------
+
+In my leisure time, I enjoy spending time with my family, solving puzzles with my kid, getting creative with arts, and organizing events that bring people together. I’m also a fan of mystery and horror movies—there’s nothing like a good thriller!
