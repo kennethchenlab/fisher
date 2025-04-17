@@ -16,11 +16,11 @@ pub     :
     pubmedcentral: 
     biorxiv:
       
-  - reference: 	"Fraire CR, Desai K, Obalapuram UA, Mendyka LK, Rajaram V, Sebastian T, Wang Y, Onel K, Lee J, Chen KS. An imbalance between proliferation and differentiation underlies the development of microRNA-defective pineoblastoma. bioRxiv [Preprint]."
-    doi: 10.1101/2024.04.23.590638v3
-    pubmed:  
+  - reference: 	"Fraire CR, Desai K, Jagadeeswaran I, Obalapuram UA, Mendyka LK, Rajaram V, Sebastian T, Wang Y, Onel K, Lee J, Chen KS. An imbalance between proliferation and differentiation underlies the development of microRNA-defective pineoblastoma. Genes Dev. 2025. "
+    doi: 10.1101/gad.352485.124
+    pubmed:  40240142
     pubmedcentral: 
-    biorxiv:
+    biorxiv: https://www.biorxiv.org/content/10.1101/2024.04.23.590638v3
 
   - reference: 	"Schoettler PJ, Smith CC, Nishitani M, Harris AK, Nelson AT, Watson DA, Kamihara J, Mullen EA, Hill DA, Messinger YH, Fair DB, Kumar KA, Dehner LP, Ash S, Chen KS, Schultz KAP. Anaplastic Sarcoma of the Kidney (DICER1-Sarcoma of the Kidney): A Report from the International Pleuropulmonary Blastoma/ DICER1 Registry. Pediatr Blood Cancer. 2024; e31090. "
     doi: 10.1002/pbc.31090
