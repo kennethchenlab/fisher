@@ -10,9 +10,9 @@ pub     :
     pubmedcentral: 
     biorxiv:
       
-  - reference: 	"Tiburcio PDB, Chen K, Xu L, Chen KS. Actinomycin D and bortezomib disrupt protein homeostasis in Wilms tumor. bioRxiv [Preprint]."
-    doi: 10.1101/2024.06.11.598518
-    pubmed:  
+  - reference: 	"Tiburcio PDB, Chen K, Xu L, Chen KS. Suppressing proteasome activity enhances sensitivity to actinomycin D in diffuse anaplastic Wilms tumor."
+    doi: 10.1016/j.xcrm.2025.102133
+    pubmed:  40347939
     pubmedcentral: 
     biorxiv:
       
@@ -20,7 +20,7 @@ pub     :
     doi: 10.1101/gad.352485.124
     pubmed:  40240142
     pubmedcentral: 
-    biorxiv: https://www.biorxiv.org/content/10.1101/2024.04.23.590638v3
+    biorxiv: 
 
   - reference: 	"Schoettler PJ, Smith CC, Nishitani M, Harris AK, Nelson AT, Watson DA, Kamihara J, Mullen EA, Hill DA, Messinger YH, Fair DB, Kumar KA, Dehner LP, Ash S, Chen KS, Schultz KAP. Anaplastic Sarcoma of the Kidney (DICER1-Sarcoma of the Kidney): A Report from the International Pleuropulmonary Blastoma/ DICER1 Registry. Pediatr Blood Cancer. 2024; e31090. "
     doi: 10.1002/pbc.31090
