@@ -2,7 +2,7 @@ enable  : true
 title   : MEET THE TEAM
 subtitle : SOME FORMER MEMBERS
 members  :
-  - name        : Kenneth Chen, MD
+  - name        : Kenneth Chen
     image       : images/team/kenneth-chen.jpg
     designation : Principal Investigator<br>Assistant Professor
     email       : Kenneth.Chen@utsw.edu
@@ -10,7 +10,7 @@ members  :
     twitter     : kennethschen
     bio         : members/kchen-bio
 
-  - name        : Patricia Tiburcio, PhD
+  - name        : Patricia Tiburcio
     image       : images/team/patricia-tiburcio.jpg
     designation : Postdoctoral Fellow
     description :
@@ -52,6 +52,13 @@ members  :
     description :
     email       : Indumathy.Jagadeeswaran@utsw.edu
     bio         : members/ijagadeeswaran-bio
+
+  - name        : Amanda Reyes
+    image       : images/team/areyes-headshot-646.jpg
+    designation : Graduate Student
+    description :
+    email       : Amanda.Reyes@utsw.edu
+    bio         : members/areyes-bio
 
   # - name        : Bendu Konneh
   #   image       : images/team/bendu-konneh.jpg
