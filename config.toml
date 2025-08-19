@@ -20,14 +20,10 @@ theme = "timer-hugo"
         name    = "Members"
         url     = "/members"
         weight  = 4
-    [[menu.nav]]
-        name    = "News"
-        url     = "/news"
-        weight  = 5
-    [[menu.nav]]
+   [[menu.nav]]
         name    = "Contact"
         url     = "/contact"
-        weight  = 6
+        weight  = 5
 
 # Site Params
 [params]

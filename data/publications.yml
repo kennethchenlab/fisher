@@ -4,35 +4,35 @@ subtitle:    Here are some of our latest works.
 image   :
 pub     :
 
-  - reference: 	"Tiburcio PDB, Desai K, Warne A, Nabbi A, Zhou S, Reiff SD, Campbell ME, Amatruda JF, Chen KS. PD-L1 expression is mediated by microRNA processing, Wnt/β-catenin signaling, and chemotherapy in Wilms tumor. Pediatr Blood Cancer. 2025."
+  - reference: 	"Tiburcio PDB*, Desai K*, Warne A, Nabbi A, Zhou S, Reiff SD, Campbell ME, Amatruda JF, Chen KS. PD-L1 expression is mediated by microRNA processing, Wnt/β-catenin signaling, and chemotherapy in Wilms tumor. Pediatr Blood Cancer. 2025."
     doi: 10.1002/pbc.31852
-    pubmed:  
+    pubmed:  40512079
     pubmedcentral: 
     biorxiv: https://www.biorxiv.org/content/10.1101/2024.11.29.626084v1
       
   - reference: 	"Tiburcio PDB, Chen K, Xu L, Chen KS. Suppressing proteasome activity enhances sensitivity to actinomycin D in diffuse anaplastic Wilms tumor. Cell Reports Medicine. 2025."
     doi: 10.1016/j.xcrm.2025.102133
     pubmed:  40347939
-    pubmedcentral: 
-    biorxiv:
+    pubmedcentral: PMC12147910
+    biorxiv: https://www.biorxiv.org/content/10.1101/2024.06.11.598518v3
       
   - reference: 	"Fraire CR, Desai K, Jagadeeswaran I, Obalapuram UA, Mendyka LK, Rajaram V, Sebastian T, Wang Y, Onel K, Lee J, Chen KS. An imbalance between proliferation and differentiation underlies the development of microRNA-defective pineoblastoma. Genes Dev. 2025. "
     doi: 10.1101/gad.352485.124
     pubmed:  40240142
     pubmedcentral: 
-    biorxiv: 
+    biorxiv: https://www.biorxiv.org/content/10.1101/2024.04.23.590638v1
 
-  - reference: 	"Schoettler PJ, Smith CC, Nishitani M, Harris AK, Nelson AT, Watson DA, Kamihara J, Mullen EA, Hill DA, Messinger YH, Fair DB, Kumar KA, Dehner LP, Ash S, Chen KS, Schultz KAP. Anaplastic Sarcoma of the Kidney (DICER1-Sarcoma of the Kidney): A Report from the International Pleuropulmonary Blastoma/ DICER1 Registry. Pediatr Blood Cancer. 2024; e31090. "
+  - reference: 	"Schoettler PJ, Smith CC, Nishitani M, Harris AK, Nelson AT, Watson DA, Kamihara J, Mullen EA, Hill DA, Messinger YH, Fair DB, Kumar KA, Dehner LP, Ash S, Chen KS, Schultz KAP. Anaplastic Sarcoma of the Kidney (DICER1-Sarcoma of the Kidney): A Report from the International Pleuropulmonary Blastoma/DICER1 Registry. Pediatr Blood Cancer. 2024; e31090. "
     doi: 10.1002/pbc.31090
     pubmed:  38807260
-    pubmedcentral: 
+    pubmedcentral: PMC11590164
     biorxiv:
 
   - reference: 	"Tiburcio PDB, Desai K, Kim J, Zhou Q, Guo L, Xiao X, Zhou L, Yuksel A, Catchpoole DR, Amatruda JF, Xu L, Chen KS. DROSHA regulates mesenchymal gene expression in Wilms tumor. Mol Cancer Res. 2024 Apr 22. "
     doi: 10.1158/1541-7786.MCR-23-0930
     pubmed:  38647377
-    pubmedcentral: 
-    biorxiv:
+    pubmedcentral: PMC11296922
+    biorxiv: https://www.medrxiv.org/content/10.1101/2023.01.30.23285117v1
 
   - reference: 	"Fraire CR, Mallinger PR, Hatton JN, Kim J, Dickens DS, Argenta PA, Milanovich S, Hartshorne T, Carey DJ, Haley JS, Urban G, Lee J, Hill DA, Stewart DR, Schultz KAP, Chen KS. Intronic germline DICER1 variants in patients with Sertoli-Leydig cell tumor. JCO Precis Oncol. 2023; 7: e2300189."
     doi: 10.1200/PO.23.00189
@@ -64,19 +64,19 @@ pub     :
   #   pubmedcentral: PMC10164134
   #   biorxiv:
 
-  - reference:	Aguayo JS, Shelton JM, Tan W, Rakheja D, Cai C, Shalaby A, Lee J, Iannaccone ST, Xu L, Chen KS, Burns DK, Zheng Y. Ectopic PLAG1 induces muscular dystrophy in the mouse. Biochem Biophys Res Commun. 2023 Jul 12;665:159-168.
+  - reference:	"Aguayo JS, Shelton JM, Tan W, Rakheja D, Cai C, Shalaby A, Lee J, Iannaccone ST, Xu L, Chen KS, Burns DK, Zheng Y. Ectopic PLAG1 induces muscular dystrophy in the mouse. Biochem Biophys Res Commun. 2023 Jul 12;665:159-168."
     doi: 10.1016/j.bbrc.2023.05.006
     pubmed:  37163936
     pubmedcentral: 
     biorxiv:
 
-  # - reference: Hatton JN, Frone MN, Cox HC, Crowley SB, Hiraki S, Yokoyama NN, Abul-Husn NS, Amatruda JF, Anderson MJ, Bofill-De Ros X, Carr AG, Chao EC, Chen KS, Gu S, Higgs C, Machado J, Ritter D, Schultz KAP, Soper ER, Wu MK, Mester JL, Kim J, Foulkes WD, Witkowski L, Stewart DR. Specifications of the ACMG/AMP variant classification guidelines for germline DICER1 variant curation. Human Mutation. 2023.	
+  # - reference: "Hatton JN, Frone MN, Cox HC, Crowley SB, Hiraki S, Yokoyama NN, Abul-Husn NS, Amatruda JF, Anderson MJ, Bofill-De Ros X, Carr AG, Chao EC, Chen KS, Gu S, Higgs C, Machado J, Ritter D, Schultz KAP, Soper ER, Wu MK, Mester JL, Kim J, Foulkes WD, Witkowski L, Stewart DR. Specifications of the ACMG/AMP variant classification guidelines for germline DICER1 variant curation. Human Mutation. 2023."	
   #   doi: 10.1155/2023/9537832
   #   pubmed:  
   #   pubmedcentral: 
   #   biorxiv:
 
-  # - reference: 	Medvedev KE, Savelyeva AV, Chen KS, Bagrodia A, Jia L, Grishin NV. Integrated molecular analysis reveals two distinct subtypes of pure seminoma of the testis. Cancer Inform. 2022. 
+  # - reference: 	"Medvedev KE, Savelyeva AV, Chen KS, Bagrodia A, Jia L, Grishin NV. Integrated molecular analysis reveals two distinct subtypes of pure seminoma of the testis. Cancer Inform. 2022. "
   #   doi: 10.1177/11769351221132634
   #   pubmed:  36330202
   #   pubmedcentral: PMC9623390
